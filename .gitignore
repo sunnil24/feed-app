@@ -1,0 +1,18 @@
+build
+coverage
+debug
+dist
+
+# npm
+.npmrc
+npm-debug.log*
+package-lock.json
+yarn.lock
+yarn-debug.log*
+yarn-error.log*
+.yarn-integrity
+.npm
+node_modules
+
+.env
+

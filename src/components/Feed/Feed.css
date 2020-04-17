@@ -1,0 +1,10 @@
+.feed-row {
+  padding: 8px 0;
+}
+
+.pagination {
+  margin: 16px 0 0 calc(5% + 100px);
+  font-size: 14px;
+  text-decoration: none;
+  display: inline-block;
+}

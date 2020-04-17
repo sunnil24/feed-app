@@ -1,0 +1,123 @@
+.colored {
+  background-color: #e6e6df;
+}
+
+.feed-wrapper {
+  align-items: center;
+  color: #828282;
+  display: flex;
+}
+
+.feed-comment-count {
+  flex: 0 0 35px;
+  text-align: right;
+  padding-right: 4px;
+}
+
+.feed-upvote-count {
+  flex: 0 0 35px;
+  text-align: right;
+  padding: 0 4px;
+}
+
+.feed-upvote-cta {
+  flex: 0 0 20px;
+  font-size: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+  .feed-wrapper {
+    flex-wrap: wrap;
+  }
+
+  .feed-title {
+    padding: 10px 0 0;
+    flex-basis: 100%;
+    line-height: 20px;
+  }
+
+  .feed-row {
+    padding: 16px 0;
+  }
+
+  .feed-title {
+    flex-basis: auto;
+  }
+
+  .feed-comment-count {
+    text-align: left;
+    flex-basis: 100px;
+    padding: 0;
+  }
+
+  .feed-upvote-count {
+    text-align: left;
+    padding: 0;
+    flex-basis: 100px;
+  }
+
+  .feed-upvote-count:before {
+    content: "Vote: ";
+    font-weight: bold;
+  }
+
+  .feed-comment-count:before {
+    content: "Comment: ";
+    font-weight: bold;
+  }
+
+  .feed-upvote-cta {
+    flex-basis: 100px;
+    font-size: 12px;
+  }
+
+  .feed-upvote-cta:before {
+    content: "Upvote: ";
+    font-weight: bold;
+    color: #000;
+  }
+
+  .primary-text.pagination {
+    margin-left: 5%;
+  }
+  .feed-title {
+    flex-basis: auto;
+  }
+
+  .feed-comment-count {
+    text-align: left;
+    flex-basis: 100px;
+    padding: 0;
+  }
+
+  .feed-upvote-count {
+    text-align: left;
+    padding: 0;
+    flex-basis: 100px;
+  }
+
+  .feed-upvote-count:before {
+    content: "Vote: ";
+    font-weight: bold;
+  }
+
+  .feed-comment-count:before {
+    content: "Comment: ";
+    font-weight: bold;
+  }
+
+  .feed-upvote-cta {
+    flex-basis: 100px;
+    font-size: 12px;
+  }
+
+  .feed-upvote-cta:before {
+    content: "Upvote: ";
+    font-weight: bold;
+    color: #000;
+  }
+
+  .primary-text.pagination {
+    margin-left: 5%;
+  }
+}
