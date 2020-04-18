@@ -11,7 +11,7 @@ import "./index.css";
 //components
 import App from "./components/App";
 
-ReactDOM.render(
+ReactDOM.hydrate(
   <Provider store={store}>
     <App />
   </Provider>,
