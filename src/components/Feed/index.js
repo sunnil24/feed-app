@@ -27,7 +27,7 @@ const Feed = (props) => {
     return <p className="no-feed-text">Loading...</p>;
   }
   return (
-    <div className={classnames("Feed", className)}>
+    <div className={classnames("feed", className)}>
       {hasFeed ? (
         feeds.map((feed, index) => {
           const { objectID } = feed;
