@@ -9,11 +9,11 @@ import logo from "../../assests/images/y18.gif";
 
 const Logo = () => {
   return (
-    <div className="logo">
+    <h1 className="logo">
       <Link to="/" title="Hacker News | Feed">
         <img src={logo} alt="Hacker News" />
       </Link>
-    </div>
+    </h1>
   );
 };
 

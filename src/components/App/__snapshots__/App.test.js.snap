@@ -19,8 +19,13 @@ ShallowWrapper {
     "nodeType": "host",
     "props": Object {
       "children": <BrowserRouter>
+        <MetaData />
         <Header />
-        <Logo />
+        <div
+          id="maincontent"
+        >
+          <Logo />
+        </div>
       </BrowserRouter>,
       "className": "App",
     },
@@ -31,8 +36,13 @@ ShallowWrapper {
       "nodeType": "class",
       "props": Object {
         "children": Array [
+          <MetaData />,
           <Header />,
-          <Logo />,
+          <div
+            id="maincontent"
+          >
+            <Logo />
+          </div>,
         ],
       },
       "ref": null,
@@ -55,6 +65,26 @@ ShallowWrapper {
           "rendered": null,
           "type": [Function],
         },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": <Logo />,
+            "id": "maincontent",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {},
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          "type": "div",
+        },
       ],
       "type": [Function],
     },
@@ -67,8 +97,13 @@ ShallowWrapper {
       "nodeType": "host",
       "props": Object {
         "children": <BrowserRouter>
+          <MetaData />
           <Header />
-          <Logo />
+          <div
+            id="maincontent"
+          >
+            <Logo />
+          </div>
         </BrowserRouter>,
         "className": "App",
       },
@@ -79,8 +114,13 @@ ShallowWrapper {
         "nodeType": "class",
         "props": Object {
           "children": Array [
+            <MetaData />,
             <Header />,
-            <Logo />,
+            <div
+              id="maincontent"
+            >
+              <Logo />
+            </div>,
           ],
         },
         "ref": null,
@@ -102,6 +142,26 @@ ShallowWrapper {
             "ref": null,
             "rendered": null,
             "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": <Logo />,
+              "id": "maincontent",
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {},
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            "type": "div",
           },
         ],
         "type": [Function],

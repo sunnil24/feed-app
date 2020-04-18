@@ -68,7 +68,7 @@ ShallowWrapper {
         "render": [Function],
       },
     },
-    "type": "div",
+    "type": "h1",
   },
   Symbol(enzyme.__nodes__): Array [
     Object {
@@ -126,7 +126,7 @@ ShallowWrapper {
           "render": [Function],
         },
       },
-      "type": "div",
+      "type": "h1",
     },
   ],
   Symbol(enzyme.__options__): Object {

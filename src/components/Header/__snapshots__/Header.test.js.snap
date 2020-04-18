@@ -19,6 +19,12 @@ ShallowWrapper {
     "nodeType": "host",
     "props": Object {
       "children": Array [
+        <a
+          class="skip-link"
+          href="#maincontent"
+        >
+          Skip to main
+        </a>,
         <Logo />,
         <Navigation />,
       ],
@@ -26,6 +32,19 @@ ShallowWrapper {
     },
     "ref": null,
     "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "Skip to main",
+          "class": "skip-link",
+          "href": "#maincontent",
+        },
+        "ref": null,
+        "rendered": "Skip to main",
+        "type": "a",
+      },
       Object {
         "instance": null,
         "key": undefined,
@@ -54,6 +73,12 @@ ShallowWrapper {
       "nodeType": "host",
       "props": Object {
         "children": Array [
+          <a
+            class="skip-link"
+            href="#maincontent"
+          >
+            Skip to main
+          </a>,
           <Logo />,
           <Navigation />,
         ],
@@ -61,6 +86,19 @@ ShallowWrapper {
       },
       "ref": null,
       "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Skip to main",
+            "class": "skip-link",
+            "href": "#maincontent",
+          },
+          "ref": null,
+          "rendered": "Skip to main",
+          "type": "a",
+        },
         Object {
           "instance": null,
           "key": undefined,

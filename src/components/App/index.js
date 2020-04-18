@@ -12,7 +12,9 @@ const App = () => {
       <BrowserRouter>
         <MetaData />
         <Header />
-        <RouterComponent />
+        <div id="maincontent">
+          <RouterComponent />
+        </div>
       </BrowserRouter>
     </div>
   );
