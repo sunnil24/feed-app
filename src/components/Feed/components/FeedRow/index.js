@@ -11,8 +11,43 @@ import "./FeedRow.css";
 import Main from "../../../Main";
 import { getDomainName } from "../../../../utils/common";
 
-const FeedRow = ({ className, colored, data }) => {
-  const { title, url, num_comments, points, created_at, author } = data;
+const FeedRow = (props) => {
+  const {
+    className,
+    colored,
+    data,
+    hideClickHandler,
+    upvoteHandler,
+    upvotedData,
+  } = props;
+  const {
+    title,
+    url,
+    num_comments,
+    points,
+    created_at,
+    author,
+    objectID,
+  } = data;
+  const domain = getDomainName(url);
+
+  const hideMe = (e) => {
+    e.preventDefault();
+    hideClickHandler(objectID);
+  };
+
+  const upvoteMe = (e) => {
+    e.preventDefault();
+    upvoteHandler(objectID);
+  };
+
+  let domainText = "";
+  if (domain) {
+    domainText = `(${domain})`;
+  }
+
+  const hasBeenUpvoted = upvotedData.includes(objectID);
+
   return (
     <div
       className={classnames(
@@ -27,20 +62,25 @@ const FeedRow = ({ className, colored, data }) => {
         <div className="feed-comment-count dark-text">{num_comments}</div>
         <div className="feed-upvote-count dark-text">{points}</div>
         <div className="feed-upvote-cta">
-          <Link onClick={() => {}} className="inherit-text">
+          <button
+            onClick={upvoteMe}
+            className={classnames("no-button", "inherit-text", {
+              "primary-text": hasBeenUpvoted,
+            })}
+          >
             &#9650;
-          </Link>
+          </button>
         </div>
         <div className="feed-title">
           <a href={url} className="dark-text">
             {title}
           </a>
-          &nbsp; ({getDomainName(url)}) by{" "}
+          &nbsp; {domainText} by &nbsp;
           <span className="dark-text">{author} </span>
           {moment(created_at).fromNow()} [
-          <Link onClick={() => {}} className="dark-text">
+          <button onClick={hideMe} className="no-button dark-text">
             hide
-          </Link>
+          </button>
           ]
         </div>
       </Main>
@@ -52,6 +92,8 @@ FeedRow.propTypes = {
   className: PropTypes.string,
   colored: PropTypes.bool,
   data: PropTypes.object,
+  hideClickHandler: PropTypes.func,
+  upvoteHandler: PropTypes.func,
 };
 
 FeedRow.defaultProps = {

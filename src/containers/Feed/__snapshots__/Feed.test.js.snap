@@ -1,32 +1,10 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<Feed {...props} /> should render the Title Component correctly 1`] = `
+exports[`<Feed /> should render the Title Component correctly 1`] = `
 ShallowWrapper {
   Symbol(enzyme.__root__): [Circular],
   Symbol(enzyme.__unrendered__): <Feed
-    className="some-class"
-    hiddenData={Array []}
-    hideClickHandler={[Function]}
-    newsFeed={
-      Object {
-        "data": Object {
-          "hits": Array [
-            Object {
-              "author": "Sunil",
-              "created_at": 67564652,
-              "num_comments": 222,
-              "points": 10,
-              "title": "Some title",
-              "url": "http://some-utl.com",
-            },
-          ],
-        },
-        "isFetching": true,
-      }
-    }
-    onLodeMore={[Function]}
-    upvoteHandler={[Function]}
-    upvotedData={Array []}
+    getFeed={[Function]}
   />,
   Symbol(enzyme.__renderer__): Object {
     "batchedUpdates": [Function],
@@ -40,27 +18,43 @@ ShallowWrapper {
   Symbol(enzyme.__node__): Object {
     "instance": null,
     "key": undefined,
-    "nodeType": "host",
+    "nodeType": "function",
     "props": Object {
-      "children": "Loading...",
-      "className": "no-feed-text",
+      "getFeed": [Function],
+      "hiddenData": Array [
+        "",
+      ],
+      "hideClickHandler": [Function],
+      "onLodeMore": [Function],
+      "upvoteHandler": [Function],
+      "upvotedData": Array [
+        "",
+      ],
     },
     "ref": null,
-    "rendered": "Loading...",
-    "type": "p",
+    "rendered": null,
+    "type": [Function],
   },
   Symbol(enzyme.__nodes__): Array [
     Object {
       "instance": null,
       "key": undefined,
-      "nodeType": "host",
+      "nodeType": "function",
       "props": Object {
-        "children": "Loading...",
-        "className": "no-feed-text",
+        "getFeed": [Function],
+        "hiddenData": Array [
+          "",
+        ],
+        "hideClickHandler": [Function],
+        "onLodeMore": [Function],
+        "upvoteHandler": [Function],
+        "upvotedData": Array [
+          "",
+        ],
       },
       "ref": null,
-      "rendered": "Loading...",
-      "type": "p",
+      "rendered": null,
+      "type": [Function],
     },
   ],
   Symbol(enzyme.__options__): Object {
@@ -89,5 +83,6 @@ ShallowWrapper {
     Symbol(enzyme.__providerValues__): undefined,
   },
   Symbol(enzyme.__providerValues__): Map {},
+  Symbol(enzyme.__childContext__): null,
 }
 `;

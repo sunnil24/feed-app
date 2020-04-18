@@ -1,5 +1,6 @@
 import React from "react";
 import { shallow } from "enzyme";
+import sinon from "sinon";
 
 import FeedRow from "./index";
 
@@ -16,6 +17,9 @@ const props = {
   data,
   className: "some-class",
   colored: true,
+  hideClickHandler: sinon.stub(),
+  upvoteHandler: sinon.stub(),
+  upvotedData: [],
 };
 
 describe("<FeedRow />", () => {

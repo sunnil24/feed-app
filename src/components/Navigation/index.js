@@ -11,10 +11,10 @@ const Navigation = () => {
   return (
     <nav className="navbar">
       <ul className="navbar-nav">
-        {navItems.map((item) => {
+        {navItems.map((item, index) => {
           const { displayName, url, title } = item;
           return (
-            <li className="navbar-item">
+            <li className="navbar-item" key={`navItem-${index}`}>
               <NavLink className="navbar-link" to={url} title={title}>
                 {displayName}
               </NavLink>

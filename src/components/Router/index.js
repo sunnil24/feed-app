@@ -6,9 +6,13 @@ import routes from "../../routes";
 const Logo = () => {
   return (
     <Switch>
-      {routes.map((route) => {
+      {routes.map((route, index) => {
         const { component, ...otherAttr } = route;
-        return <Route {...otherAttr}>{component}</Route>;
+        return (
+          <Route {...otherAttr} key={`route-${index}`}>
+            {component}
+          </Route>
+        );
       })}
     </Switch>
   );

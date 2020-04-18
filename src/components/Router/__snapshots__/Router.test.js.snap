@@ -22,7 +22,7 @@ ShallowWrapper {
         <Route
           path="/"
         >
-          <Feed />
+          <UNDEFINED />
         </Route>,
       ],
     },
@@ -30,10 +30,10 @@ ShallowWrapper {
     "rendered": Array [
       Object {
         "instance": null,
-        "key": undefined,
+        "key": "route-0",
         "nodeType": "class",
         "props": Object {
-          "children": <Feed />,
+          "children": <UNDEFINED />,
           "path": "/",
         },
         "ref": null,
@@ -44,7 +44,14 @@ ShallowWrapper {
           "props": Object {},
           "ref": null,
           "rendered": null,
-          "type": [Function],
+          "type": Object {
+            "$$typeof": Symbol(react.memo),
+            "WrappedComponent": [Function],
+            "compare": null,
+            "displayName": "Connect(Feed)",
+            "type": [Function],
+            Symbol(Symbol.hasInstance): [Function],
+          },
         },
         "type": [Function],
       },
@@ -61,7 +68,7 @@ ShallowWrapper {
           <Route
             path="/"
           >
-            <Feed />
+            <UNDEFINED />
           </Route>,
         ],
       },
@@ -69,10 +76,10 @@ ShallowWrapper {
       "rendered": Array [
         Object {
           "instance": null,
-          "key": undefined,
+          "key": "route-0",
           "nodeType": "class",
           "props": Object {
-            "children": <Feed />,
+            "children": <UNDEFINED />,
             "path": "/",
           },
           "ref": null,
@@ -83,7 +90,14 @@ ShallowWrapper {
             "props": Object {},
             "ref": null,
             "rendered": null,
-            "type": [Function],
+            "type": Object {
+              "$$typeof": Symbol(react.memo),
+              "WrappedComponent": [Function],
+              "compare": null,
+              "displayName": "Connect(Feed)",
+              "type": [Function],
+              Symbol(Symbol.hasInstance): [Function],
+            },
           },
           "type": [Function],
         },
