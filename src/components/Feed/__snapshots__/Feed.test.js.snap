@@ -1,0 +1,3905 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Feed /> should render the Title Component correctly 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Feed />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "checkPropTypes": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        Array [
+          <FeedRow
+            colored={false}
+            data={
+              Object {
+                "_highlightResult": Object {
+                  "author": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "sohkamyung",
+                  },
+                  "title": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "ICANN delays .org selloff after California’s attorney general intervenes",
+                  },
+                  "url": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "https://www.theregister.co.uk/2020/04/17/icann_california_org_sale_delay/",
+                  },
+                },
+                "_tags": Array [
+                  "story",
+                  "author_sohkamyung",
+                  "story_22895784",
+                  "front_page",
+                ],
+                "author": "sohkamyung",
+                "comment_text": null,
+                "created_at": "2020-04-17T02:53:28.000Z",
+                "created_at_i": 1587092008,
+                "num_comments": 98,
+                "objectID": "22895784",
+                "parent_id": null,
+                "points": 458,
+                "story_id": null,
+                "story_text": null,
+                "story_title": null,
+                "story_url": null,
+                "title": "ICANN delays .org selloff after California’s attorney general intervenes",
+                "url": "https://www.theregister.co.uk/2020/04/17/icann_california_org_sale_delay/",
+              }
+            }
+          />,
+          <FeedRow
+            colored={true}
+            data={
+              Object {
+                "_highlightResult": Object {
+                  "author": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "dutzi_",
+                  },
+                  "title": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "Userscripts Are Fun and Are Still Very Much Relevant",
+                  },
+                  "url": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "https://dutzi.party/userscripts-are-fun/",
+                  },
+                },
+                "_tags": Array [
+                  "story",
+                  "author_dutzi_",
+                  "story_22895787",
+                  "front_page",
+                ],
+                "author": "dutzi_",
+                "comment_text": null,
+                "created_at": "2020-04-17T02:53:51.000Z",
+                "created_at_i": 1587092031,
+                "num_comments": 112,
+                "objectID": "22895787",
+                "parent_id": null,
+                "points": 333,
+                "story_id": null,
+                "story_text": null,
+                "story_title": null,
+                "story_url": null,
+                "title": "Userscripts Are Fun and Are Still Very Much Relevant",
+                "url": "https://dutzi.party/userscripts-are-fun/",
+              }
+            }
+          />,
+          <FeedRow
+            colored={false}
+            data={
+              Object {
+                "_highlightResult": Object {
+                  "author": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "ksaxena",
+                  },
+                  "title": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "CNN converts night images to perfect daylight in – 1s",
+                  },
+                  "url": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "https://github.com/cchen156/Learning-to-See-in-the-Dark",
+                  },
+                },
+                "_tags": Array [
+                  "story",
+                  "author_ksaxena",
+                  "story_22899495",
+                  "front_page",
+                ],
+                "author": "ksaxena",
+                "comment_text": null,
+                "created_at": "2020-04-17T14:57:19.000Z",
+                "created_at_i": 1587135439,
+                "num_comments": 77,
+                "objectID": "22899495",
+                "parent_id": null,
+                "points": 239,
+                "story_id": null,
+                "story_text": null,
+                "story_title": null,
+                "story_url": null,
+                "title": "CNN converts night images to perfect daylight in – 1s",
+                "url": "https://github.com/cchen156/Learning-to-See-in-the-Dark",
+              }
+            }
+          />,
+          <FeedRow
+            colored={true}
+            data={
+              Object {
+                "_highlightResult": Object {
+                  "author": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "walterbell",
+                  },
+                  "title": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "How the coronavirus is driving new surveillance programs globally",
+                  },
+                  "url": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "https://onezero.medium.com/the-pandemic-is-a-trojan-horse-for-surveillance-programs-around-the-world-887fa6f12ec9",
+                  },
+                },
+                "_tags": Array [
+                  "story",
+                  "author_walterbell",
+                  "story_22896288",
+                  "front_page",
+                ],
+                "author": "walterbell",
+                "comment_text": null,
+                "created_at": "2020-04-17T04:48:22.000Z",
+                "created_at_i": 1587098902,
+                "num_comments": 68,
+                "objectID": "22896288",
+                "parent_id": null,
+                "points": 211,
+                "story_id": null,
+                "story_text": null,
+                "story_title": null,
+                "story_url": null,
+                "title": "How the coronavirus is driving new surveillance programs globally",
+                "url": "https://onezero.medium.com/the-pandemic-is-a-trojan-horse-for-surveillance-programs-around-the-world-887fa6f12ec9",
+              }
+            }
+          />,
+          <FeedRow
+            colored={false}
+            data={
+              Object {
+                "_highlightResult": Object {
+                  "author": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "mmmBacon",
+                  },
+                  "title": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "Roger Penrose – Is Mathematics Invented or Discovered? [video]",
+                  },
+                  "url": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "https://www.youtube.com/watch?v=ujvS2K06dg4",
+                  },
+                },
+                "_tags": Array [
+                  "story",
+                  "author_mmmBacon",
+                  "story_22896671",
+                  "front_page",
+                ],
+                "author": "mmmBacon",
+                "comment_text": null,
+                "created_at": "2020-04-17T06:12:45.000Z",
+                "created_at_i": 1587103965,
+                "num_comments": 210,
+                "objectID": "22896671",
+                "parent_id": null,
+                "points": 204,
+                "story_id": null,
+                "story_text": null,
+                "story_title": null,
+                "story_url": null,
+                "title": "Roger Penrose – Is Mathematics Invented or Discovered? [video]",
+                "url": "https://www.youtube.com/watch?v=ujvS2K06dg4",
+              }
+            }
+          />,
+          <FeedRow
+            colored={true}
+            data={
+              Object {
+                "_highlightResult": Object {
+                  "author": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "pvsukale3",
+                  },
+                  "title": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "Ruby Concurrency Final Report",
+                  },
+                  "url": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "https://www.codeotaku.com/journal/2020-04/ruby-concurrency-final-report/index",
+                  },
+                },
+                "_tags": Array [
+                  "story",
+                  "author_pvsukale3",
+                  "story_22875321",
+                  "front_page",
+                ],
+                "author": "pvsukale3",
+                "comment_text": null,
+                "created_at": "2020-04-15T07:09:33.000Z",
+                "created_at_i": 1586934573,
+                "num_comments": 32,
+                "objectID": "22875321",
+                "parent_id": null,
+                "points": 167,
+                "story_id": null,
+                "story_text": null,
+                "story_title": null,
+                "story_url": null,
+                "title": "Ruby Concurrency Final Report",
+                "url": "https://www.codeotaku.com/journal/2020-04/ruby-concurrency-final-report/index",
+              }
+            }
+          />,
+          <FeedRow
+            colored={false}
+            data={
+              Object {
+                "_highlightResult": Object {
+                  "author": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "HenryR",
+                  },
+                  "title": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "Fix Boyer-Moore searcher with the Rytter correction",
+                  },
+                  "url": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "https://github.com/microsoft/STL/pull/724",
+                  },
+                },
+                "_tags": Array [
+                  "story",
+                  "author_HenryR",
+                  "story_22895932",
+                  "front_page",
+                ],
+                "author": "HenryR",
+                "comment_text": null,
+                "created_at": "2020-04-17T03:25:32.000Z",
+                "created_at_i": 1587093932,
+                "num_comments": 37,
+                "objectID": "22895932",
+                "parent_id": null,
+                "points": 163,
+                "story_id": null,
+                "story_text": null,
+                "story_title": null,
+                "story_url": null,
+                "title": "Fix Boyer-Moore searcher with the Rytter correction",
+                "url": "https://github.com/microsoft/STL/pull/724",
+              }
+            }
+          />,
+          <FeedRow
+            colored={true}
+            data={
+              Object {
+                "_highlightResult": Object {
+                  "author": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "severine",
+                  },
+                  "title": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "The curious tale of Bhutan's playable record postage stamps (2015)",
+                  },
+                  "url": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/",
+                  },
+                },
+                "_tags": Array [
+                  "story",
+                  "author_severine",
+                  "story_22896682",
+                  "front_page",
+                ],
+                "author": "severine",
+                "comment_text": null,
+                "created_at": "2020-04-17T06:16:08.000Z",
+                "created_at_i": 1587104168,
+                "num_comments": 25,
+                "objectID": "22896682",
+                "parent_id": null,
+                "points": 143,
+                "story_id": null,
+                "story_text": null,
+                "story_title": null,
+                "story_url": null,
+                "title": "The curious tale of Bhutan's playable record postage stamps (2015)",
+                "url": "https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/",
+              }
+            }
+          />,
+          <FeedRow
+            colored={false}
+            data={
+              Object {
+                "_highlightResult": Object {
+                  "author": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "feross",
+                  },
+                  "title": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "Understanding RAID: How performance scales from one disk to eight",
+                  },
+                  "url": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "https://arstechnica.com/information-technology/2020/04/understanding-raid-how-performance-scales-from-one-disk-to-eight/",
+                  },
+                },
+                "_tags": Array [
+                  "story",
+                  "author_feross",
+                  "story_22888407",
+                  "front_page",
+                ],
+                "author": "feross",
+                "comment_text": null,
+                "created_at": "2020-04-16T11:44:13.000Z",
+                "created_at_i": 1587037453,
+                "num_comments": 62,
+                "objectID": "22888407",
+                "parent_id": null,
+                "points": 129,
+                "story_id": null,
+                "story_text": null,
+                "story_title": null,
+                "story_url": null,
+                "title": "Understanding RAID: How performance scales from one disk to eight",
+                "url": "https://arstechnica.com/information-technology/2020/04/understanding-raid-how-performance-scales-from-one-disk-to-eight/",
+              }
+            }
+          />,
+          <FeedRow
+            colored={true}
+            data={
+              Object {
+                "_highlightResult": Object {
+                  "author": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "makaimc",
+                  },
+                  "title": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "Building an end-to-end Speech Recognition model in PyTorch",
+                  },
+                  "url": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch",
+                  },
+                },
+                "_tags": Array [
+                  "story",
+                  "author_makaimc",
+                  "story_22899107",
+                  "front_page",
+                ],
+                "author": "makaimc",
+                "comment_text": null,
+                "created_at": "2020-04-17T14:11:33.000Z",
+                "created_at_i": 1587132693,
+                "num_comments": 17,
+                "objectID": "22899107",
+                "parent_id": null,
+                "points": 115,
+                "story_id": null,
+                "story_text": null,
+                "story_title": null,
+                "story_url": null,
+                "title": "Building an end-to-end Speech Recognition model in PyTorch",
+                "url": "https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch",
+              }
+            }
+          />,
+          <FeedRow
+            colored={false}
+            data={
+              Object {
+                "_highlightResult": Object {
+                  "author": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "Luc",
+                  },
+                  "title": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "Fruit Trenches: Cultivating Subtropical Plants in Freezing Temperatures",
+                  },
+                  "url": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "https://www.lowtechmagazine.com/2020/04/fruit-trenches-cultivating-subtropical-plants-in-freezing-temperatures.html",
+                  },
+                },
+                "_tags": Array [
+                  "story",
+                  "author_Luc",
+                  "story_22887931",
+                  "front_page",
+                ],
+                "author": "Luc",
+                "comment_text": null,
+                "created_at": "2020-04-16T10:26:18.000Z",
+                "created_at_i": 1587032778,
+                "num_comments": 25,
+                "objectID": "22887931",
+                "parent_id": null,
+                "points": 114,
+                "story_id": null,
+                "story_text": null,
+                "story_title": null,
+                "story_url": null,
+                "title": "Fruit Trenches: Cultivating Subtropical Plants in Freezing Temperatures",
+                "url": "https://www.lowtechmagazine.com/2020/04/fruit-trenches-cultivating-subtropical-plants-in-freezing-temperatures.html",
+              }
+            }
+          />,
+          <FeedRow
+            colored={true}
+            data={
+              Object {
+                "_highlightResult": Object {
+                  "author": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "pseudolus",
+                  },
+                  "title": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "Deep Sea Squid Communicate by Glowing Like E-Readers",
+                  },
+                  "url": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "https://www.npr.org/2020/04/17/820707276/deep-sea-squid-communicate-by-glowing-like-e-readers",
+                  },
+                },
+                "_tags": Array [
+                  "story",
+                  "author_pseudolus",
+                  "story_22897846",
+                  "front_page",
+                ],
+                "author": "pseudolus",
+                "comment_text": null,
+                "created_at": "2020-04-17T10:43:24.000Z",
+                "created_at_i": 1587120204,
+                "num_comments": 30,
+                "objectID": "22897846",
+                "parent_id": null,
+                "points": 106,
+                "story_id": null,
+                "story_text": null,
+                "story_title": null,
+                "story_url": null,
+                "title": "Deep Sea Squid Communicate by Glowing Like E-Readers",
+                "url": "https://www.npr.org/2020/04/17/820707276/deep-sea-squid-communicate-by-glowing-like-e-readers",
+              }
+            }
+          />,
+          <FeedRow
+            colored={false}
+            data={
+              Object {
+                "_highlightResult": Object {
+                  "author": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "raphlinus",
+                  },
+                  "title": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "A Taste of GPU Compute [video]",
+                  },
+                  "url": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "https://www.youtube.com/watch?v=eqkAaplKBc4",
+                  },
+                },
+                "_tags": Array [
+                  "story",
+                  "author_raphlinus",
+                  "story_22880502",
+                  "front_page",
+                ],
+                "author": "raphlinus",
+                "comment_text": null,
+                "created_at": "2020-04-15T17:26:43.000Z",
+                "created_at_i": 1586971603,
+                "num_comments": 55,
+                "objectID": "22880502",
+                "parent_id": null,
+                "points": 105,
+                "story_id": null,
+                "story_text": null,
+                "story_title": null,
+                "story_url": null,
+                "title": "A Taste of GPU Compute [video]",
+                "url": "https://www.youtube.com/watch?v=eqkAaplKBc4",
+              }
+            }
+          />,
+          <FeedRow
+            colored={true}
+            data={
+              Object {
+                "_highlightResult": Object {
+                  "author": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "lelf",
+                  },
+                  "title": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "Telescope Sees Star Dance Around Supermassive Black Hole, Proves Einstein Right",
+                  },
+                  "url": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "https://www.eso.org/public/news/eso2006/",
+                  },
+                },
+                "_tags": Array [
+                  "story",
+                  "author_lelf",
+                  "story_22891654",
+                  "front_page",
+                ],
+                "author": "lelf",
+                "comment_text": null,
+                "created_at": "2020-04-16T17:33:21.000Z",
+                "created_at_i": 1587058401,
+                "num_comments": 49,
+                "objectID": "22891654",
+                "parent_id": null,
+                "points": 104,
+                "story_id": null,
+                "story_text": null,
+                "story_title": null,
+                "story_url": null,
+                "title": "Telescope Sees Star Dance Around Supermassive Black Hole, Proves Einstein Right",
+                "url": "https://www.eso.org/public/news/eso2006/",
+              }
+            }
+          />,
+          <FeedRow
+            colored={false}
+            data={
+              Object {
+                "_highlightResult": Object {
+                  "author": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "eastdakota",
+                  },
+                  "title": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "Is BGP Safe Yet?",
+                  },
+                  "url": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "https://isbgpsafeyet.com/",
+                  },
+                },
+                "_tags": Array [
+                  "story",
+                  "author_eastdakota",
+                  "story_22899546",
+                  "front_page",
+                ],
+                "author": "eastdakota",
+                "comment_text": null,
+                "created_at": "2020-04-17T15:02:00.000Z",
+                "created_at_i": 1587135720,
+                "num_comments": 13,
+                "objectID": "22899546",
+                "parent_id": null,
+                "points": 99,
+                "story_id": null,
+                "story_text": null,
+                "story_title": null,
+                "story_url": null,
+                "title": "Is BGP Safe Yet?",
+                "url": "https://isbgpsafeyet.com/",
+              }
+            }
+          />,
+          <FeedRow
+            colored={true}
+            data={
+              Object {
+                "_highlightResult": Object {
+                  "author": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "logane",
+                  },
+                  "title": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "Show HN: Zoomerbackgrounds.com – community sourced virtual video backgrounds",
+                  },
+                  "url": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "https://zoomerbackgrounds.com",
+                  },
+                },
+                "_tags": Array [
+                  "story",
+                  "author_logane",
+                  "story_22899654",
+                  "show_hn",
+                  "front_page",
+                ],
+                "author": "logane",
+                "comment_text": null,
+                "created_at": "2020-04-17T15:10:05.000Z",
+                "created_at_i": 1587136205,
+                "num_comments": 24,
+                "objectID": "22899654",
+                "parent_id": null,
+                "points": 66,
+                "story_id": null,
+                "story_text": null,
+                "story_title": null,
+                "story_url": null,
+                "title": "Show HN: Zoomerbackgrounds.com – community sourced virtual video backgrounds",
+                "url": "https://zoomerbackgrounds.com",
+              }
+            }
+          />,
+          <FeedRow
+            colored={false}
+            data={
+              Object {
+                "_highlightResult": Object {
+                  "author": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "luu",
+                  },
+                  "title": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "Minimizing Logic Expressions",
+                  },
+                  "url": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "https://lab.whitequark.org/notes/2020-04-06/minimizing-logic-expressions/",
+                  },
+                },
+                "_tags": Array [
+                  "story",
+                  "author_luu",
+                  "story_22897961",
+                  "front_page",
+                ],
+                "author": "luu",
+                "comment_text": null,
+                "created_at": "2020-04-17T11:03:59.000Z",
+                "created_at_i": 1587121439,
+                "num_comments": 16,
+                "objectID": "22897961",
+                "parent_id": null,
+                "points": 46,
+                "story_id": null,
+                "story_text": null,
+                "story_title": null,
+                "story_url": null,
+                "title": "Minimizing Logic Expressions",
+                "url": "https://lab.whitequark.org/notes/2020-04-06/minimizing-logic-expressions/",
+              }
+            }
+          />,
+          <FeedRow
+            colored={true}
+            data={
+              Object {
+                "_highlightResult": Object {
+                  "author": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "rlindskog",
+                  },
+                  "title": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "Show HN: Graphite – Create apps from GraphQL APIs without writing code",
+                  },
+                  "url": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "https://graphiteapps.com",
+                  },
+                },
+                "_tags": Array [
+                  "story",
+                  "author_rlindskog",
+                  "story_22899065",
+                  "show_hn",
+                  "front_page",
+                ],
+                "author": "rlindskog",
+                "comment_text": null,
+                "created_at": "2020-04-17T14:06:57.000Z",
+                "created_at_i": 1587132417,
+                "num_comments": 27,
+                "objectID": "22899065",
+                "parent_id": null,
+                "points": 32,
+                "story_id": null,
+                "story_text": null,
+                "story_title": null,
+                "story_url": null,
+                "title": "Show HN: Graphite – Create apps from GraphQL APIs without writing code",
+                "url": "https://graphiteapps.com",
+              }
+            }
+          />,
+          <FeedRow
+            colored={false}
+            data={
+              Object {
+                "_highlightResult": Object {
+                  "author": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "buboard",
+                  },
+                  "title": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "Covid-19 Antibody Seroprevalence in Santa Clara County, California",
+                  },
+                  "url": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1",
+                  },
+                },
+                "_tags": Array [
+                  "story",
+                  "author_buboard",
+                  "story_22899272",
+                  "front_page",
+                ],
+                "author": "buboard",
+                "comment_text": null,
+                "created_at": "2020-04-17T14:31:47.000Z",
+                "created_at_i": 1587133907,
+                "num_comments": 24,
+                "objectID": "22899272",
+                "parent_id": null,
+                "points": 29,
+                "story_id": null,
+                "story_text": null,
+                "story_title": null,
+                "story_url": null,
+                "title": "Covid-19 Antibody Seroprevalence in Santa Clara County, California",
+                "url": "https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1",
+              }
+            }
+          />,
+          <FeedRow
+            colored={true}
+            data={
+              Object {
+                "_highlightResult": Object {
+                  "author": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "himynameisdave",
+                  },
+                  "title": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "Opt-Out of Clearview.ai",
+                  },
+                  "url": Object {
+                    "matchLevel": "none",
+                    "matchedWords": Array [],
+                    "value": "https://clearview.ai/privacy/requests",
+                  },
+                },
+                "_tags": Array [
+                  "story",
+                  "author_himynameisdave",
+                  "story_22900329",
+                  "front_page",
+                ],
+                "author": "himynameisdave",
+                "comment_text": null,
+                "created_at": "2020-04-17T16:21:05.000Z",
+                "created_at_i": 1587140465,
+                "num_comments": 10,
+                "objectID": "22900329",
+                "parent_id": null,
+                "points": 29,
+                "story_id": null,
+                "story_text": null,
+                "story_title": null,
+                "story_url": null,
+                "title": "Opt-Out of Clearview.ai",
+                "url": "https://clearview.ai/privacy/requests",
+              }
+            }
+          />,
+        ],
+        <ForwardRef
+          className="primary-text pagination"
+          onClick={[Function]}
+        >
+          More
+        </ForwardRef>,
+      ],
+      "className": "Feed",
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": "22895784",
+        "nodeType": "function",
+        "props": Object {
+          "colored": false,
+          "data": Object {
+            "_highlightResult": Object {
+              "author": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "sohkamyung",
+              },
+              "title": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "ICANN delays .org selloff after California’s attorney general intervenes",
+              },
+              "url": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "https://www.theregister.co.uk/2020/04/17/icann_california_org_sale_delay/",
+              },
+            },
+            "_tags": Array [
+              "story",
+              "author_sohkamyung",
+              "story_22895784",
+              "front_page",
+            ],
+            "author": "sohkamyung",
+            "comment_text": null,
+            "created_at": "2020-04-17T02:53:28.000Z",
+            "created_at_i": 1587092008,
+            "num_comments": 98,
+            "objectID": "22895784",
+            "parent_id": null,
+            "points": 458,
+            "story_id": null,
+            "story_text": null,
+            "story_title": null,
+            "story_url": null,
+            "title": "ICANN delays .org selloff after California’s attorney general intervenes",
+            "url": "https://www.theregister.co.uk/2020/04/17/icann_california_org_sale_delay/",
+          },
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "22895787",
+        "nodeType": "function",
+        "props": Object {
+          "colored": true,
+          "data": Object {
+            "_highlightResult": Object {
+              "author": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "dutzi_",
+              },
+              "title": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "Userscripts Are Fun and Are Still Very Much Relevant",
+              },
+              "url": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "https://dutzi.party/userscripts-are-fun/",
+              },
+            },
+            "_tags": Array [
+              "story",
+              "author_dutzi_",
+              "story_22895787",
+              "front_page",
+            ],
+            "author": "dutzi_",
+            "comment_text": null,
+            "created_at": "2020-04-17T02:53:51.000Z",
+            "created_at_i": 1587092031,
+            "num_comments": 112,
+            "objectID": "22895787",
+            "parent_id": null,
+            "points": 333,
+            "story_id": null,
+            "story_text": null,
+            "story_title": null,
+            "story_url": null,
+            "title": "Userscripts Are Fun and Are Still Very Much Relevant",
+            "url": "https://dutzi.party/userscripts-are-fun/",
+          },
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "22899495",
+        "nodeType": "function",
+        "props": Object {
+          "colored": false,
+          "data": Object {
+            "_highlightResult": Object {
+              "author": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "ksaxena",
+              },
+              "title": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "CNN converts night images to perfect daylight in – 1s",
+              },
+              "url": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "https://github.com/cchen156/Learning-to-See-in-the-Dark",
+              },
+            },
+            "_tags": Array [
+              "story",
+              "author_ksaxena",
+              "story_22899495",
+              "front_page",
+            ],
+            "author": "ksaxena",
+            "comment_text": null,
+            "created_at": "2020-04-17T14:57:19.000Z",
+            "created_at_i": 1587135439,
+            "num_comments": 77,
+            "objectID": "22899495",
+            "parent_id": null,
+            "points": 239,
+            "story_id": null,
+            "story_text": null,
+            "story_title": null,
+            "story_url": null,
+            "title": "CNN converts night images to perfect daylight in – 1s",
+            "url": "https://github.com/cchen156/Learning-to-See-in-the-Dark",
+          },
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "22896288",
+        "nodeType": "function",
+        "props": Object {
+          "colored": true,
+          "data": Object {
+            "_highlightResult": Object {
+              "author": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "walterbell",
+              },
+              "title": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "How the coronavirus is driving new surveillance programs globally",
+              },
+              "url": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "https://onezero.medium.com/the-pandemic-is-a-trojan-horse-for-surveillance-programs-around-the-world-887fa6f12ec9",
+              },
+            },
+            "_tags": Array [
+              "story",
+              "author_walterbell",
+              "story_22896288",
+              "front_page",
+            ],
+            "author": "walterbell",
+            "comment_text": null,
+            "created_at": "2020-04-17T04:48:22.000Z",
+            "created_at_i": 1587098902,
+            "num_comments": 68,
+            "objectID": "22896288",
+            "parent_id": null,
+            "points": 211,
+            "story_id": null,
+            "story_text": null,
+            "story_title": null,
+            "story_url": null,
+            "title": "How the coronavirus is driving new surveillance programs globally",
+            "url": "https://onezero.medium.com/the-pandemic-is-a-trojan-horse-for-surveillance-programs-around-the-world-887fa6f12ec9",
+          },
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "22896671",
+        "nodeType": "function",
+        "props": Object {
+          "colored": false,
+          "data": Object {
+            "_highlightResult": Object {
+              "author": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "mmmBacon",
+              },
+              "title": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "Roger Penrose – Is Mathematics Invented or Discovered? [video]",
+              },
+              "url": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "https://www.youtube.com/watch?v=ujvS2K06dg4",
+              },
+            },
+            "_tags": Array [
+              "story",
+              "author_mmmBacon",
+              "story_22896671",
+              "front_page",
+            ],
+            "author": "mmmBacon",
+            "comment_text": null,
+            "created_at": "2020-04-17T06:12:45.000Z",
+            "created_at_i": 1587103965,
+            "num_comments": 210,
+            "objectID": "22896671",
+            "parent_id": null,
+            "points": 204,
+            "story_id": null,
+            "story_text": null,
+            "story_title": null,
+            "story_url": null,
+            "title": "Roger Penrose – Is Mathematics Invented or Discovered? [video]",
+            "url": "https://www.youtube.com/watch?v=ujvS2K06dg4",
+          },
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "22875321",
+        "nodeType": "function",
+        "props": Object {
+          "colored": true,
+          "data": Object {
+            "_highlightResult": Object {
+              "author": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "pvsukale3",
+              },
+              "title": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "Ruby Concurrency Final Report",
+              },
+              "url": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "https://www.codeotaku.com/journal/2020-04/ruby-concurrency-final-report/index",
+              },
+            },
+            "_tags": Array [
+              "story",
+              "author_pvsukale3",
+              "story_22875321",
+              "front_page",
+            ],
+            "author": "pvsukale3",
+            "comment_text": null,
+            "created_at": "2020-04-15T07:09:33.000Z",
+            "created_at_i": 1586934573,
+            "num_comments": 32,
+            "objectID": "22875321",
+            "parent_id": null,
+            "points": 167,
+            "story_id": null,
+            "story_text": null,
+            "story_title": null,
+            "story_url": null,
+            "title": "Ruby Concurrency Final Report",
+            "url": "https://www.codeotaku.com/journal/2020-04/ruby-concurrency-final-report/index",
+          },
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "22895932",
+        "nodeType": "function",
+        "props": Object {
+          "colored": false,
+          "data": Object {
+            "_highlightResult": Object {
+              "author": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "HenryR",
+              },
+              "title": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "Fix Boyer-Moore searcher with the Rytter correction",
+              },
+              "url": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "https://github.com/microsoft/STL/pull/724",
+              },
+            },
+            "_tags": Array [
+              "story",
+              "author_HenryR",
+              "story_22895932",
+              "front_page",
+            ],
+            "author": "HenryR",
+            "comment_text": null,
+            "created_at": "2020-04-17T03:25:32.000Z",
+            "created_at_i": 1587093932,
+            "num_comments": 37,
+            "objectID": "22895932",
+            "parent_id": null,
+            "points": 163,
+            "story_id": null,
+            "story_text": null,
+            "story_title": null,
+            "story_url": null,
+            "title": "Fix Boyer-Moore searcher with the Rytter correction",
+            "url": "https://github.com/microsoft/STL/pull/724",
+          },
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "22896682",
+        "nodeType": "function",
+        "props": Object {
+          "colored": true,
+          "data": Object {
+            "_highlightResult": Object {
+              "author": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "severine",
+              },
+              "title": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "The curious tale of Bhutan's playable record postage stamps (2015)",
+              },
+              "url": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/",
+              },
+            },
+            "_tags": Array [
+              "story",
+              "author_severine",
+              "story_22896682",
+              "front_page",
+            ],
+            "author": "severine",
+            "comment_text": null,
+            "created_at": "2020-04-17T06:16:08.000Z",
+            "created_at_i": 1587104168,
+            "num_comments": 25,
+            "objectID": "22896682",
+            "parent_id": null,
+            "points": 143,
+            "story_id": null,
+            "story_text": null,
+            "story_title": null,
+            "story_url": null,
+            "title": "The curious tale of Bhutan's playable record postage stamps (2015)",
+            "url": "https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/",
+          },
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "22888407",
+        "nodeType": "function",
+        "props": Object {
+          "colored": false,
+          "data": Object {
+            "_highlightResult": Object {
+              "author": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "feross",
+              },
+              "title": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "Understanding RAID: How performance scales from one disk to eight",
+              },
+              "url": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "https://arstechnica.com/information-technology/2020/04/understanding-raid-how-performance-scales-from-one-disk-to-eight/",
+              },
+            },
+            "_tags": Array [
+              "story",
+              "author_feross",
+              "story_22888407",
+              "front_page",
+            ],
+            "author": "feross",
+            "comment_text": null,
+            "created_at": "2020-04-16T11:44:13.000Z",
+            "created_at_i": 1587037453,
+            "num_comments": 62,
+            "objectID": "22888407",
+            "parent_id": null,
+            "points": 129,
+            "story_id": null,
+            "story_text": null,
+            "story_title": null,
+            "story_url": null,
+            "title": "Understanding RAID: How performance scales from one disk to eight",
+            "url": "https://arstechnica.com/information-technology/2020/04/understanding-raid-how-performance-scales-from-one-disk-to-eight/",
+          },
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "22899107",
+        "nodeType": "function",
+        "props": Object {
+          "colored": true,
+          "data": Object {
+            "_highlightResult": Object {
+              "author": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "makaimc",
+              },
+              "title": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "Building an end-to-end Speech Recognition model in PyTorch",
+              },
+              "url": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch",
+              },
+            },
+            "_tags": Array [
+              "story",
+              "author_makaimc",
+              "story_22899107",
+              "front_page",
+            ],
+            "author": "makaimc",
+            "comment_text": null,
+            "created_at": "2020-04-17T14:11:33.000Z",
+            "created_at_i": 1587132693,
+            "num_comments": 17,
+            "objectID": "22899107",
+            "parent_id": null,
+            "points": 115,
+            "story_id": null,
+            "story_text": null,
+            "story_title": null,
+            "story_url": null,
+            "title": "Building an end-to-end Speech Recognition model in PyTorch",
+            "url": "https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch",
+          },
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "22887931",
+        "nodeType": "function",
+        "props": Object {
+          "colored": false,
+          "data": Object {
+            "_highlightResult": Object {
+              "author": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "Luc",
+              },
+              "title": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "Fruit Trenches: Cultivating Subtropical Plants in Freezing Temperatures",
+              },
+              "url": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "https://www.lowtechmagazine.com/2020/04/fruit-trenches-cultivating-subtropical-plants-in-freezing-temperatures.html",
+              },
+            },
+            "_tags": Array [
+              "story",
+              "author_Luc",
+              "story_22887931",
+              "front_page",
+            ],
+            "author": "Luc",
+            "comment_text": null,
+            "created_at": "2020-04-16T10:26:18.000Z",
+            "created_at_i": 1587032778,
+            "num_comments": 25,
+            "objectID": "22887931",
+            "parent_id": null,
+            "points": 114,
+            "story_id": null,
+            "story_text": null,
+            "story_title": null,
+            "story_url": null,
+            "title": "Fruit Trenches: Cultivating Subtropical Plants in Freezing Temperatures",
+            "url": "https://www.lowtechmagazine.com/2020/04/fruit-trenches-cultivating-subtropical-plants-in-freezing-temperatures.html",
+          },
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "22897846",
+        "nodeType": "function",
+        "props": Object {
+          "colored": true,
+          "data": Object {
+            "_highlightResult": Object {
+              "author": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "pseudolus",
+              },
+              "title": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "Deep Sea Squid Communicate by Glowing Like E-Readers",
+              },
+              "url": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "https://www.npr.org/2020/04/17/820707276/deep-sea-squid-communicate-by-glowing-like-e-readers",
+              },
+            },
+            "_tags": Array [
+              "story",
+              "author_pseudolus",
+              "story_22897846",
+              "front_page",
+            ],
+            "author": "pseudolus",
+            "comment_text": null,
+            "created_at": "2020-04-17T10:43:24.000Z",
+            "created_at_i": 1587120204,
+            "num_comments": 30,
+            "objectID": "22897846",
+            "parent_id": null,
+            "points": 106,
+            "story_id": null,
+            "story_text": null,
+            "story_title": null,
+            "story_url": null,
+            "title": "Deep Sea Squid Communicate by Glowing Like E-Readers",
+            "url": "https://www.npr.org/2020/04/17/820707276/deep-sea-squid-communicate-by-glowing-like-e-readers",
+          },
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "22880502",
+        "nodeType": "function",
+        "props": Object {
+          "colored": false,
+          "data": Object {
+            "_highlightResult": Object {
+              "author": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "raphlinus",
+              },
+              "title": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "A Taste of GPU Compute [video]",
+              },
+              "url": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "https://www.youtube.com/watch?v=eqkAaplKBc4",
+              },
+            },
+            "_tags": Array [
+              "story",
+              "author_raphlinus",
+              "story_22880502",
+              "front_page",
+            ],
+            "author": "raphlinus",
+            "comment_text": null,
+            "created_at": "2020-04-15T17:26:43.000Z",
+            "created_at_i": 1586971603,
+            "num_comments": 55,
+            "objectID": "22880502",
+            "parent_id": null,
+            "points": 105,
+            "story_id": null,
+            "story_text": null,
+            "story_title": null,
+            "story_url": null,
+            "title": "A Taste of GPU Compute [video]",
+            "url": "https://www.youtube.com/watch?v=eqkAaplKBc4",
+          },
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "22891654",
+        "nodeType": "function",
+        "props": Object {
+          "colored": true,
+          "data": Object {
+            "_highlightResult": Object {
+              "author": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "lelf",
+              },
+              "title": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "Telescope Sees Star Dance Around Supermassive Black Hole, Proves Einstein Right",
+              },
+              "url": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "https://www.eso.org/public/news/eso2006/",
+              },
+            },
+            "_tags": Array [
+              "story",
+              "author_lelf",
+              "story_22891654",
+              "front_page",
+            ],
+            "author": "lelf",
+            "comment_text": null,
+            "created_at": "2020-04-16T17:33:21.000Z",
+            "created_at_i": 1587058401,
+            "num_comments": 49,
+            "objectID": "22891654",
+            "parent_id": null,
+            "points": 104,
+            "story_id": null,
+            "story_text": null,
+            "story_title": null,
+            "story_url": null,
+            "title": "Telescope Sees Star Dance Around Supermassive Black Hole, Proves Einstein Right",
+            "url": "https://www.eso.org/public/news/eso2006/",
+          },
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "22899546",
+        "nodeType": "function",
+        "props": Object {
+          "colored": false,
+          "data": Object {
+            "_highlightResult": Object {
+              "author": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "eastdakota",
+              },
+              "title": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "Is BGP Safe Yet?",
+              },
+              "url": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "https://isbgpsafeyet.com/",
+              },
+            },
+            "_tags": Array [
+              "story",
+              "author_eastdakota",
+              "story_22899546",
+              "front_page",
+            ],
+            "author": "eastdakota",
+            "comment_text": null,
+            "created_at": "2020-04-17T15:02:00.000Z",
+            "created_at_i": 1587135720,
+            "num_comments": 13,
+            "objectID": "22899546",
+            "parent_id": null,
+            "points": 99,
+            "story_id": null,
+            "story_text": null,
+            "story_title": null,
+            "story_url": null,
+            "title": "Is BGP Safe Yet?",
+            "url": "https://isbgpsafeyet.com/",
+          },
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "22899654",
+        "nodeType": "function",
+        "props": Object {
+          "colored": true,
+          "data": Object {
+            "_highlightResult": Object {
+              "author": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "logane",
+              },
+              "title": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "Show HN: Zoomerbackgrounds.com – community sourced virtual video backgrounds",
+              },
+              "url": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "https://zoomerbackgrounds.com",
+              },
+            },
+            "_tags": Array [
+              "story",
+              "author_logane",
+              "story_22899654",
+              "show_hn",
+              "front_page",
+            ],
+            "author": "logane",
+            "comment_text": null,
+            "created_at": "2020-04-17T15:10:05.000Z",
+            "created_at_i": 1587136205,
+            "num_comments": 24,
+            "objectID": "22899654",
+            "parent_id": null,
+            "points": 66,
+            "story_id": null,
+            "story_text": null,
+            "story_title": null,
+            "story_url": null,
+            "title": "Show HN: Zoomerbackgrounds.com – community sourced virtual video backgrounds",
+            "url": "https://zoomerbackgrounds.com",
+          },
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "22897961",
+        "nodeType": "function",
+        "props": Object {
+          "colored": false,
+          "data": Object {
+            "_highlightResult": Object {
+              "author": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "luu",
+              },
+              "title": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "Minimizing Logic Expressions",
+              },
+              "url": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "https://lab.whitequark.org/notes/2020-04-06/minimizing-logic-expressions/",
+              },
+            },
+            "_tags": Array [
+              "story",
+              "author_luu",
+              "story_22897961",
+              "front_page",
+            ],
+            "author": "luu",
+            "comment_text": null,
+            "created_at": "2020-04-17T11:03:59.000Z",
+            "created_at_i": 1587121439,
+            "num_comments": 16,
+            "objectID": "22897961",
+            "parent_id": null,
+            "points": 46,
+            "story_id": null,
+            "story_text": null,
+            "story_title": null,
+            "story_url": null,
+            "title": "Minimizing Logic Expressions",
+            "url": "https://lab.whitequark.org/notes/2020-04-06/minimizing-logic-expressions/",
+          },
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "22899065",
+        "nodeType": "function",
+        "props": Object {
+          "colored": true,
+          "data": Object {
+            "_highlightResult": Object {
+              "author": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "rlindskog",
+              },
+              "title": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "Show HN: Graphite – Create apps from GraphQL APIs without writing code",
+              },
+              "url": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "https://graphiteapps.com",
+              },
+            },
+            "_tags": Array [
+              "story",
+              "author_rlindskog",
+              "story_22899065",
+              "show_hn",
+              "front_page",
+            ],
+            "author": "rlindskog",
+            "comment_text": null,
+            "created_at": "2020-04-17T14:06:57.000Z",
+            "created_at_i": 1587132417,
+            "num_comments": 27,
+            "objectID": "22899065",
+            "parent_id": null,
+            "points": 32,
+            "story_id": null,
+            "story_text": null,
+            "story_title": null,
+            "story_url": null,
+            "title": "Show HN: Graphite – Create apps from GraphQL APIs without writing code",
+            "url": "https://graphiteapps.com",
+          },
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "22899272",
+        "nodeType": "function",
+        "props": Object {
+          "colored": false,
+          "data": Object {
+            "_highlightResult": Object {
+              "author": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "buboard",
+              },
+              "title": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "Covid-19 Antibody Seroprevalence in Santa Clara County, California",
+              },
+              "url": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1",
+              },
+            },
+            "_tags": Array [
+              "story",
+              "author_buboard",
+              "story_22899272",
+              "front_page",
+            ],
+            "author": "buboard",
+            "comment_text": null,
+            "created_at": "2020-04-17T14:31:47.000Z",
+            "created_at_i": 1587133907,
+            "num_comments": 24,
+            "objectID": "22899272",
+            "parent_id": null,
+            "points": 29,
+            "story_id": null,
+            "story_text": null,
+            "story_title": null,
+            "story_url": null,
+            "title": "Covid-19 Antibody Seroprevalence in Santa Clara County, California",
+            "url": "https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1",
+          },
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "22900329",
+        "nodeType": "function",
+        "props": Object {
+          "colored": true,
+          "data": Object {
+            "_highlightResult": Object {
+              "author": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "himynameisdave",
+              },
+              "title": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "Opt-Out of Clearview.ai",
+              },
+              "url": Object {
+                "matchLevel": "none",
+                "matchedWords": Array [],
+                "value": "https://clearview.ai/privacy/requests",
+              },
+            },
+            "_tags": Array [
+              "story",
+              "author_himynameisdave",
+              "story_22900329",
+              "front_page",
+            ],
+            "author": "himynameisdave",
+            "comment_text": null,
+            "created_at": "2020-04-17T16:21:05.000Z",
+            "created_at_i": 1587140465,
+            "num_comments": 10,
+            "objectID": "22900329",
+            "parent_id": null,
+            "points": 29,
+            "story_id": null,
+            "story_text": null,
+            "story_title": null,
+            "story_url": null,
+            "title": "Opt-Out of Clearview.ai",
+            "url": "https://clearview.ai/privacy/requests",
+          },
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "function",
+        "props": Object {
+          "children": "More",
+          "className": "primary-text pagination",
+          "onClick": [Function],
+        },
+        "ref": null,
+        "rendered": "More",
+        "type": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "displayName": "Link",
+          "propTypes": Object {
+            "innerRef": [Function],
+            "onClick": [Function],
+            "replace": [Function],
+            "target": [Function],
+            "to": [Function],
+          },
+          "render": [Function],
+        },
+      },
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          Array [
+            <FeedRow
+              colored={false}
+              data={
+                Object {
+                  "_highlightResult": Object {
+                    "author": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "sohkamyung",
+                    },
+                    "title": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "ICANN delays .org selloff after California’s attorney general intervenes",
+                    },
+                    "url": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "https://www.theregister.co.uk/2020/04/17/icann_california_org_sale_delay/",
+                    },
+                  },
+                  "_tags": Array [
+                    "story",
+                    "author_sohkamyung",
+                    "story_22895784",
+                    "front_page",
+                  ],
+                  "author": "sohkamyung",
+                  "comment_text": null,
+                  "created_at": "2020-04-17T02:53:28.000Z",
+                  "created_at_i": 1587092008,
+                  "num_comments": 98,
+                  "objectID": "22895784",
+                  "parent_id": null,
+                  "points": 458,
+                  "story_id": null,
+                  "story_text": null,
+                  "story_title": null,
+                  "story_url": null,
+                  "title": "ICANN delays .org selloff after California’s attorney general intervenes",
+                  "url": "https://www.theregister.co.uk/2020/04/17/icann_california_org_sale_delay/",
+                }
+              }
+            />,
+            <FeedRow
+              colored={true}
+              data={
+                Object {
+                  "_highlightResult": Object {
+                    "author": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "dutzi_",
+                    },
+                    "title": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "Userscripts Are Fun and Are Still Very Much Relevant",
+                    },
+                    "url": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "https://dutzi.party/userscripts-are-fun/",
+                    },
+                  },
+                  "_tags": Array [
+                    "story",
+                    "author_dutzi_",
+                    "story_22895787",
+                    "front_page",
+                  ],
+                  "author": "dutzi_",
+                  "comment_text": null,
+                  "created_at": "2020-04-17T02:53:51.000Z",
+                  "created_at_i": 1587092031,
+                  "num_comments": 112,
+                  "objectID": "22895787",
+                  "parent_id": null,
+                  "points": 333,
+                  "story_id": null,
+                  "story_text": null,
+                  "story_title": null,
+                  "story_url": null,
+                  "title": "Userscripts Are Fun and Are Still Very Much Relevant",
+                  "url": "https://dutzi.party/userscripts-are-fun/",
+                }
+              }
+            />,
+            <FeedRow
+              colored={false}
+              data={
+                Object {
+                  "_highlightResult": Object {
+                    "author": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "ksaxena",
+                    },
+                    "title": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "CNN converts night images to perfect daylight in – 1s",
+                    },
+                    "url": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "https://github.com/cchen156/Learning-to-See-in-the-Dark",
+                    },
+                  },
+                  "_tags": Array [
+                    "story",
+                    "author_ksaxena",
+                    "story_22899495",
+                    "front_page",
+                  ],
+                  "author": "ksaxena",
+                  "comment_text": null,
+                  "created_at": "2020-04-17T14:57:19.000Z",
+                  "created_at_i": 1587135439,
+                  "num_comments": 77,
+                  "objectID": "22899495",
+                  "parent_id": null,
+                  "points": 239,
+                  "story_id": null,
+                  "story_text": null,
+                  "story_title": null,
+                  "story_url": null,
+                  "title": "CNN converts night images to perfect daylight in – 1s",
+                  "url": "https://github.com/cchen156/Learning-to-See-in-the-Dark",
+                }
+              }
+            />,
+            <FeedRow
+              colored={true}
+              data={
+                Object {
+                  "_highlightResult": Object {
+                    "author": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "walterbell",
+                    },
+                    "title": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "How the coronavirus is driving new surveillance programs globally",
+                    },
+                    "url": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "https://onezero.medium.com/the-pandemic-is-a-trojan-horse-for-surveillance-programs-around-the-world-887fa6f12ec9",
+                    },
+                  },
+                  "_tags": Array [
+                    "story",
+                    "author_walterbell",
+                    "story_22896288",
+                    "front_page",
+                  ],
+                  "author": "walterbell",
+                  "comment_text": null,
+                  "created_at": "2020-04-17T04:48:22.000Z",
+                  "created_at_i": 1587098902,
+                  "num_comments": 68,
+                  "objectID": "22896288",
+                  "parent_id": null,
+                  "points": 211,
+                  "story_id": null,
+                  "story_text": null,
+                  "story_title": null,
+                  "story_url": null,
+                  "title": "How the coronavirus is driving new surveillance programs globally",
+                  "url": "https://onezero.medium.com/the-pandemic-is-a-trojan-horse-for-surveillance-programs-around-the-world-887fa6f12ec9",
+                }
+              }
+            />,
+            <FeedRow
+              colored={false}
+              data={
+                Object {
+                  "_highlightResult": Object {
+                    "author": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "mmmBacon",
+                    },
+                    "title": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "Roger Penrose – Is Mathematics Invented or Discovered? [video]",
+                    },
+                    "url": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "https://www.youtube.com/watch?v=ujvS2K06dg4",
+                    },
+                  },
+                  "_tags": Array [
+                    "story",
+                    "author_mmmBacon",
+                    "story_22896671",
+                    "front_page",
+                  ],
+                  "author": "mmmBacon",
+                  "comment_text": null,
+                  "created_at": "2020-04-17T06:12:45.000Z",
+                  "created_at_i": 1587103965,
+                  "num_comments": 210,
+                  "objectID": "22896671",
+                  "parent_id": null,
+                  "points": 204,
+                  "story_id": null,
+                  "story_text": null,
+                  "story_title": null,
+                  "story_url": null,
+                  "title": "Roger Penrose – Is Mathematics Invented or Discovered? [video]",
+                  "url": "https://www.youtube.com/watch?v=ujvS2K06dg4",
+                }
+              }
+            />,
+            <FeedRow
+              colored={true}
+              data={
+                Object {
+                  "_highlightResult": Object {
+                    "author": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "pvsukale3",
+                    },
+                    "title": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "Ruby Concurrency Final Report",
+                    },
+                    "url": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "https://www.codeotaku.com/journal/2020-04/ruby-concurrency-final-report/index",
+                    },
+                  },
+                  "_tags": Array [
+                    "story",
+                    "author_pvsukale3",
+                    "story_22875321",
+                    "front_page",
+                  ],
+                  "author": "pvsukale3",
+                  "comment_text": null,
+                  "created_at": "2020-04-15T07:09:33.000Z",
+                  "created_at_i": 1586934573,
+                  "num_comments": 32,
+                  "objectID": "22875321",
+                  "parent_id": null,
+                  "points": 167,
+                  "story_id": null,
+                  "story_text": null,
+                  "story_title": null,
+                  "story_url": null,
+                  "title": "Ruby Concurrency Final Report",
+                  "url": "https://www.codeotaku.com/journal/2020-04/ruby-concurrency-final-report/index",
+                }
+              }
+            />,
+            <FeedRow
+              colored={false}
+              data={
+                Object {
+                  "_highlightResult": Object {
+                    "author": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "HenryR",
+                    },
+                    "title": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "Fix Boyer-Moore searcher with the Rytter correction",
+                    },
+                    "url": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "https://github.com/microsoft/STL/pull/724",
+                    },
+                  },
+                  "_tags": Array [
+                    "story",
+                    "author_HenryR",
+                    "story_22895932",
+                    "front_page",
+                  ],
+                  "author": "HenryR",
+                  "comment_text": null,
+                  "created_at": "2020-04-17T03:25:32.000Z",
+                  "created_at_i": 1587093932,
+                  "num_comments": 37,
+                  "objectID": "22895932",
+                  "parent_id": null,
+                  "points": 163,
+                  "story_id": null,
+                  "story_text": null,
+                  "story_title": null,
+                  "story_url": null,
+                  "title": "Fix Boyer-Moore searcher with the Rytter correction",
+                  "url": "https://github.com/microsoft/STL/pull/724",
+                }
+              }
+            />,
+            <FeedRow
+              colored={true}
+              data={
+                Object {
+                  "_highlightResult": Object {
+                    "author": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "severine",
+                    },
+                    "title": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "The curious tale of Bhutan's playable record postage stamps (2015)",
+                    },
+                    "url": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/",
+                    },
+                  },
+                  "_tags": Array [
+                    "story",
+                    "author_severine",
+                    "story_22896682",
+                    "front_page",
+                  ],
+                  "author": "severine",
+                  "comment_text": null,
+                  "created_at": "2020-04-17T06:16:08.000Z",
+                  "created_at_i": 1587104168,
+                  "num_comments": 25,
+                  "objectID": "22896682",
+                  "parent_id": null,
+                  "points": 143,
+                  "story_id": null,
+                  "story_text": null,
+                  "story_title": null,
+                  "story_url": null,
+                  "title": "The curious tale of Bhutan's playable record postage stamps (2015)",
+                  "url": "https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/",
+                }
+              }
+            />,
+            <FeedRow
+              colored={false}
+              data={
+                Object {
+                  "_highlightResult": Object {
+                    "author": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "feross",
+                    },
+                    "title": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "Understanding RAID: How performance scales from one disk to eight",
+                    },
+                    "url": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "https://arstechnica.com/information-technology/2020/04/understanding-raid-how-performance-scales-from-one-disk-to-eight/",
+                    },
+                  },
+                  "_tags": Array [
+                    "story",
+                    "author_feross",
+                    "story_22888407",
+                    "front_page",
+                  ],
+                  "author": "feross",
+                  "comment_text": null,
+                  "created_at": "2020-04-16T11:44:13.000Z",
+                  "created_at_i": 1587037453,
+                  "num_comments": 62,
+                  "objectID": "22888407",
+                  "parent_id": null,
+                  "points": 129,
+                  "story_id": null,
+                  "story_text": null,
+                  "story_title": null,
+                  "story_url": null,
+                  "title": "Understanding RAID: How performance scales from one disk to eight",
+                  "url": "https://arstechnica.com/information-technology/2020/04/understanding-raid-how-performance-scales-from-one-disk-to-eight/",
+                }
+              }
+            />,
+            <FeedRow
+              colored={true}
+              data={
+                Object {
+                  "_highlightResult": Object {
+                    "author": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "makaimc",
+                    },
+                    "title": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "Building an end-to-end Speech Recognition model in PyTorch",
+                    },
+                    "url": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch",
+                    },
+                  },
+                  "_tags": Array [
+                    "story",
+                    "author_makaimc",
+                    "story_22899107",
+                    "front_page",
+                  ],
+                  "author": "makaimc",
+                  "comment_text": null,
+                  "created_at": "2020-04-17T14:11:33.000Z",
+                  "created_at_i": 1587132693,
+                  "num_comments": 17,
+                  "objectID": "22899107",
+                  "parent_id": null,
+                  "points": 115,
+                  "story_id": null,
+                  "story_text": null,
+                  "story_title": null,
+                  "story_url": null,
+                  "title": "Building an end-to-end Speech Recognition model in PyTorch",
+                  "url": "https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch",
+                }
+              }
+            />,
+            <FeedRow
+              colored={false}
+              data={
+                Object {
+                  "_highlightResult": Object {
+                    "author": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "Luc",
+                    },
+                    "title": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "Fruit Trenches: Cultivating Subtropical Plants in Freezing Temperatures",
+                    },
+                    "url": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "https://www.lowtechmagazine.com/2020/04/fruit-trenches-cultivating-subtropical-plants-in-freezing-temperatures.html",
+                    },
+                  },
+                  "_tags": Array [
+                    "story",
+                    "author_Luc",
+                    "story_22887931",
+                    "front_page",
+                  ],
+                  "author": "Luc",
+                  "comment_text": null,
+                  "created_at": "2020-04-16T10:26:18.000Z",
+                  "created_at_i": 1587032778,
+                  "num_comments": 25,
+                  "objectID": "22887931",
+                  "parent_id": null,
+                  "points": 114,
+                  "story_id": null,
+                  "story_text": null,
+                  "story_title": null,
+                  "story_url": null,
+                  "title": "Fruit Trenches: Cultivating Subtropical Plants in Freezing Temperatures",
+                  "url": "https://www.lowtechmagazine.com/2020/04/fruit-trenches-cultivating-subtropical-plants-in-freezing-temperatures.html",
+                }
+              }
+            />,
+            <FeedRow
+              colored={true}
+              data={
+                Object {
+                  "_highlightResult": Object {
+                    "author": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "pseudolus",
+                    },
+                    "title": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "Deep Sea Squid Communicate by Glowing Like E-Readers",
+                    },
+                    "url": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "https://www.npr.org/2020/04/17/820707276/deep-sea-squid-communicate-by-glowing-like-e-readers",
+                    },
+                  },
+                  "_tags": Array [
+                    "story",
+                    "author_pseudolus",
+                    "story_22897846",
+                    "front_page",
+                  ],
+                  "author": "pseudolus",
+                  "comment_text": null,
+                  "created_at": "2020-04-17T10:43:24.000Z",
+                  "created_at_i": 1587120204,
+                  "num_comments": 30,
+                  "objectID": "22897846",
+                  "parent_id": null,
+                  "points": 106,
+                  "story_id": null,
+                  "story_text": null,
+                  "story_title": null,
+                  "story_url": null,
+                  "title": "Deep Sea Squid Communicate by Glowing Like E-Readers",
+                  "url": "https://www.npr.org/2020/04/17/820707276/deep-sea-squid-communicate-by-glowing-like-e-readers",
+                }
+              }
+            />,
+            <FeedRow
+              colored={false}
+              data={
+                Object {
+                  "_highlightResult": Object {
+                    "author": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "raphlinus",
+                    },
+                    "title": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "A Taste of GPU Compute [video]",
+                    },
+                    "url": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "https://www.youtube.com/watch?v=eqkAaplKBc4",
+                    },
+                  },
+                  "_tags": Array [
+                    "story",
+                    "author_raphlinus",
+                    "story_22880502",
+                    "front_page",
+                  ],
+                  "author": "raphlinus",
+                  "comment_text": null,
+                  "created_at": "2020-04-15T17:26:43.000Z",
+                  "created_at_i": 1586971603,
+                  "num_comments": 55,
+                  "objectID": "22880502",
+                  "parent_id": null,
+                  "points": 105,
+                  "story_id": null,
+                  "story_text": null,
+                  "story_title": null,
+                  "story_url": null,
+                  "title": "A Taste of GPU Compute [video]",
+                  "url": "https://www.youtube.com/watch?v=eqkAaplKBc4",
+                }
+              }
+            />,
+            <FeedRow
+              colored={true}
+              data={
+                Object {
+                  "_highlightResult": Object {
+                    "author": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "lelf",
+                    },
+                    "title": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "Telescope Sees Star Dance Around Supermassive Black Hole, Proves Einstein Right",
+                    },
+                    "url": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "https://www.eso.org/public/news/eso2006/",
+                    },
+                  },
+                  "_tags": Array [
+                    "story",
+                    "author_lelf",
+                    "story_22891654",
+                    "front_page",
+                  ],
+                  "author": "lelf",
+                  "comment_text": null,
+                  "created_at": "2020-04-16T17:33:21.000Z",
+                  "created_at_i": 1587058401,
+                  "num_comments": 49,
+                  "objectID": "22891654",
+                  "parent_id": null,
+                  "points": 104,
+                  "story_id": null,
+                  "story_text": null,
+                  "story_title": null,
+                  "story_url": null,
+                  "title": "Telescope Sees Star Dance Around Supermassive Black Hole, Proves Einstein Right",
+                  "url": "https://www.eso.org/public/news/eso2006/",
+                }
+              }
+            />,
+            <FeedRow
+              colored={false}
+              data={
+                Object {
+                  "_highlightResult": Object {
+                    "author": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "eastdakota",
+                    },
+                    "title": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "Is BGP Safe Yet?",
+                    },
+                    "url": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "https://isbgpsafeyet.com/",
+                    },
+                  },
+                  "_tags": Array [
+                    "story",
+                    "author_eastdakota",
+                    "story_22899546",
+                    "front_page",
+                  ],
+                  "author": "eastdakota",
+                  "comment_text": null,
+                  "created_at": "2020-04-17T15:02:00.000Z",
+                  "created_at_i": 1587135720,
+                  "num_comments": 13,
+                  "objectID": "22899546",
+                  "parent_id": null,
+                  "points": 99,
+                  "story_id": null,
+                  "story_text": null,
+                  "story_title": null,
+                  "story_url": null,
+                  "title": "Is BGP Safe Yet?",
+                  "url": "https://isbgpsafeyet.com/",
+                }
+              }
+            />,
+            <FeedRow
+              colored={true}
+              data={
+                Object {
+                  "_highlightResult": Object {
+                    "author": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "logane",
+                    },
+                    "title": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "Show HN: Zoomerbackgrounds.com – community sourced virtual video backgrounds",
+                    },
+                    "url": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "https://zoomerbackgrounds.com",
+                    },
+                  },
+                  "_tags": Array [
+                    "story",
+                    "author_logane",
+                    "story_22899654",
+                    "show_hn",
+                    "front_page",
+                  ],
+                  "author": "logane",
+                  "comment_text": null,
+                  "created_at": "2020-04-17T15:10:05.000Z",
+                  "created_at_i": 1587136205,
+                  "num_comments": 24,
+                  "objectID": "22899654",
+                  "parent_id": null,
+                  "points": 66,
+                  "story_id": null,
+                  "story_text": null,
+                  "story_title": null,
+                  "story_url": null,
+                  "title": "Show HN: Zoomerbackgrounds.com – community sourced virtual video backgrounds",
+                  "url": "https://zoomerbackgrounds.com",
+                }
+              }
+            />,
+            <FeedRow
+              colored={false}
+              data={
+                Object {
+                  "_highlightResult": Object {
+                    "author": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "luu",
+                    },
+                    "title": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "Minimizing Logic Expressions",
+                    },
+                    "url": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "https://lab.whitequark.org/notes/2020-04-06/minimizing-logic-expressions/",
+                    },
+                  },
+                  "_tags": Array [
+                    "story",
+                    "author_luu",
+                    "story_22897961",
+                    "front_page",
+                  ],
+                  "author": "luu",
+                  "comment_text": null,
+                  "created_at": "2020-04-17T11:03:59.000Z",
+                  "created_at_i": 1587121439,
+                  "num_comments": 16,
+                  "objectID": "22897961",
+                  "parent_id": null,
+                  "points": 46,
+                  "story_id": null,
+                  "story_text": null,
+                  "story_title": null,
+                  "story_url": null,
+                  "title": "Minimizing Logic Expressions",
+                  "url": "https://lab.whitequark.org/notes/2020-04-06/minimizing-logic-expressions/",
+                }
+              }
+            />,
+            <FeedRow
+              colored={true}
+              data={
+                Object {
+                  "_highlightResult": Object {
+                    "author": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "rlindskog",
+                    },
+                    "title": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "Show HN: Graphite – Create apps from GraphQL APIs without writing code",
+                    },
+                    "url": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "https://graphiteapps.com",
+                    },
+                  },
+                  "_tags": Array [
+                    "story",
+                    "author_rlindskog",
+                    "story_22899065",
+                    "show_hn",
+                    "front_page",
+                  ],
+                  "author": "rlindskog",
+                  "comment_text": null,
+                  "created_at": "2020-04-17T14:06:57.000Z",
+                  "created_at_i": 1587132417,
+                  "num_comments": 27,
+                  "objectID": "22899065",
+                  "parent_id": null,
+                  "points": 32,
+                  "story_id": null,
+                  "story_text": null,
+                  "story_title": null,
+                  "story_url": null,
+                  "title": "Show HN: Graphite – Create apps from GraphQL APIs without writing code",
+                  "url": "https://graphiteapps.com",
+                }
+              }
+            />,
+            <FeedRow
+              colored={false}
+              data={
+                Object {
+                  "_highlightResult": Object {
+                    "author": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "buboard",
+                    },
+                    "title": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "Covid-19 Antibody Seroprevalence in Santa Clara County, California",
+                    },
+                    "url": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1",
+                    },
+                  },
+                  "_tags": Array [
+                    "story",
+                    "author_buboard",
+                    "story_22899272",
+                    "front_page",
+                  ],
+                  "author": "buboard",
+                  "comment_text": null,
+                  "created_at": "2020-04-17T14:31:47.000Z",
+                  "created_at_i": 1587133907,
+                  "num_comments": 24,
+                  "objectID": "22899272",
+                  "parent_id": null,
+                  "points": 29,
+                  "story_id": null,
+                  "story_text": null,
+                  "story_title": null,
+                  "story_url": null,
+                  "title": "Covid-19 Antibody Seroprevalence in Santa Clara County, California",
+                  "url": "https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1",
+                }
+              }
+            />,
+            <FeedRow
+              colored={true}
+              data={
+                Object {
+                  "_highlightResult": Object {
+                    "author": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "himynameisdave",
+                    },
+                    "title": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "Opt-Out of Clearview.ai",
+                    },
+                    "url": Object {
+                      "matchLevel": "none",
+                      "matchedWords": Array [],
+                      "value": "https://clearview.ai/privacy/requests",
+                    },
+                  },
+                  "_tags": Array [
+                    "story",
+                    "author_himynameisdave",
+                    "story_22900329",
+                    "front_page",
+                  ],
+                  "author": "himynameisdave",
+                  "comment_text": null,
+                  "created_at": "2020-04-17T16:21:05.000Z",
+                  "created_at_i": 1587140465,
+                  "num_comments": 10,
+                  "objectID": "22900329",
+                  "parent_id": null,
+                  "points": 29,
+                  "story_id": null,
+                  "story_text": null,
+                  "story_title": null,
+                  "story_url": null,
+                  "title": "Opt-Out of Clearview.ai",
+                  "url": "https://clearview.ai/privacy/requests",
+                }
+              }
+            />,
+          ],
+          <ForwardRef
+            className="primary-text pagination"
+            onClick={[Function]}
+          >
+            More
+          </ForwardRef>,
+        ],
+        "className": "Feed",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": "22895784",
+          "nodeType": "function",
+          "props": Object {
+            "colored": false,
+            "data": Object {
+              "_highlightResult": Object {
+                "author": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "sohkamyung",
+                },
+                "title": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "ICANN delays .org selloff after California’s attorney general intervenes",
+                },
+                "url": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "https://www.theregister.co.uk/2020/04/17/icann_california_org_sale_delay/",
+                },
+              },
+              "_tags": Array [
+                "story",
+                "author_sohkamyung",
+                "story_22895784",
+                "front_page",
+              ],
+              "author": "sohkamyung",
+              "comment_text": null,
+              "created_at": "2020-04-17T02:53:28.000Z",
+              "created_at_i": 1587092008,
+              "num_comments": 98,
+              "objectID": "22895784",
+              "parent_id": null,
+              "points": 458,
+              "story_id": null,
+              "story_text": null,
+              "story_title": null,
+              "story_url": null,
+              "title": "ICANN delays .org selloff after California’s attorney general intervenes",
+              "url": "https://www.theregister.co.uk/2020/04/17/icann_california_org_sale_delay/",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "22895787",
+          "nodeType": "function",
+          "props": Object {
+            "colored": true,
+            "data": Object {
+              "_highlightResult": Object {
+                "author": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "dutzi_",
+                },
+                "title": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "Userscripts Are Fun and Are Still Very Much Relevant",
+                },
+                "url": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "https://dutzi.party/userscripts-are-fun/",
+                },
+              },
+              "_tags": Array [
+                "story",
+                "author_dutzi_",
+                "story_22895787",
+                "front_page",
+              ],
+              "author": "dutzi_",
+              "comment_text": null,
+              "created_at": "2020-04-17T02:53:51.000Z",
+              "created_at_i": 1587092031,
+              "num_comments": 112,
+              "objectID": "22895787",
+              "parent_id": null,
+              "points": 333,
+              "story_id": null,
+              "story_text": null,
+              "story_title": null,
+              "story_url": null,
+              "title": "Userscripts Are Fun and Are Still Very Much Relevant",
+              "url": "https://dutzi.party/userscripts-are-fun/",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "22899495",
+          "nodeType": "function",
+          "props": Object {
+            "colored": false,
+            "data": Object {
+              "_highlightResult": Object {
+                "author": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "ksaxena",
+                },
+                "title": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "CNN converts night images to perfect daylight in – 1s",
+                },
+                "url": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "https://github.com/cchen156/Learning-to-See-in-the-Dark",
+                },
+              },
+              "_tags": Array [
+                "story",
+                "author_ksaxena",
+                "story_22899495",
+                "front_page",
+              ],
+              "author": "ksaxena",
+              "comment_text": null,
+              "created_at": "2020-04-17T14:57:19.000Z",
+              "created_at_i": 1587135439,
+              "num_comments": 77,
+              "objectID": "22899495",
+              "parent_id": null,
+              "points": 239,
+              "story_id": null,
+              "story_text": null,
+              "story_title": null,
+              "story_url": null,
+              "title": "CNN converts night images to perfect daylight in – 1s",
+              "url": "https://github.com/cchen156/Learning-to-See-in-the-Dark",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "22896288",
+          "nodeType": "function",
+          "props": Object {
+            "colored": true,
+            "data": Object {
+              "_highlightResult": Object {
+                "author": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "walterbell",
+                },
+                "title": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "How the coronavirus is driving new surveillance programs globally",
+                },
+                "url": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "https://onezero.medium.com/the-pandemic-is-a-trojan-horse-for-surveillance-programs-around-the-world-887fa6f12ec9",
+                },
+              },
+              "_tags": Array [
+                "story",
+                "author_walterbell",
+                "story_22896288",
+                "front_page",
+              ],
+              "author": "walterbell",
+              "comment_text": null,
+              "created_at": "2020-04-17T04:48:22.000Z",
+              "created_at_i": 1587098902,
+              "num_comments": 68,
+              "objectID": "22896288",
+              "parent_id": null,
+              "points": 211,
+              "story_id": null,
+              "story_text": null,
+              "story_title": null,
+              "story_url": null,
+              "title": "How the coronavirus is driving new surveillance programs globally",
+              "url": "https://onezero.medium.com/the-pandemic-is-a-trojan-horse-for-surveillance-programs-around-the-world-887fa6f12ec9",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "22896671",
+          "nodeType": "function",
+          "props": Object {
+            "colored": false,
+            "data": Object {
+              "_highlightResult": Object {
+                "author": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "mmmBacon",
+                },
+                "title": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "Roger Penrose – Is Mathematics Invented or Discovered? [video]",
+                },
+                "url": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "https://www.youtube.com/watch?v=ujvS2K06dg4",
+                },
+              },
+              "_tags": Array [
+                "story",
+                "author_mmmBacon",
+                "story_22896671",
+                "front_page",
+              ],
+              "author": "mmmBacon",
+              "comment_text": null,
+              "created_at": "2020-04-17T06:12:45.000Z",
+              "created_at_i": 1587103965,
+              "num_comments": 210,
+              "objectID": "22896671",
+              "parent_id": null,
+              "points": 204,
+              "story_id": null,
+              "story_text": null,
+              "story_title": null,
+              "story_url": null,
+              "title": "Roger Penrose – Is Mathematics Invented or Discovered? [video]",
+              "url": "https://www.youtube.com/watch?v=ujvS2K06dg4",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "22875321",
+          "nodeType": "function",
+          "props": Object {
+            "colored": true,
+            "data": Object {
+              "_highlightResult": Object {
+                "author": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "pvsukale3",
+                },
+                "title": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "Ruby Concurrency Final Report",
+                },
+                "url": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "https://www.codeotaku.com/journal/2020-04/ruby-concurrency-final-report/index",
+                },
+              },
+              "_tags": Array [
+                "story",
+                "author_pvsukale3",
+                "story_22875321",
+                "front_page",
+              ],
+              "author": "pvsukale3",
+              "comment_text": null,
+              "created_at": "2020-04-15T07:09:33.000Z",
+              "created_at_i": 1586934573,
+              "num_comments": 32,
+              "objectID": "22875321",
+              "parent_id": null,
+              "points": 167,
+              "story_id": null,
+              "story_text": null,
+              "story_title": null,
+              "story_url": null,
+              "title": "Ruby Concurrency Final Report",
+              "url": "https://www.codeotaku.com/journal/2020-04/ruby-concurrency-final-report/index",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "22895932",
+          "nodeType": "function",
+          "props": Object {
+            "colored": false,
+            "data": Object {
+              "_highlightResult": Object {
+                "author": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "HenryR",
+                },
+                "title": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "Fix Boyer-Moore searcher with the Rytter correction",
+                },
+                "url": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "https://github.com/microsoft/STL/pull/724",
+                },
+              },
+              "_tags": Array [
+                "story",
+                "author_HenryR",
+                "story_22895932",
+                "front_page",
+              ],
+              "author": "HenryR",
+              "comment_text": null,
+              "created_at": "2020-04-17T03:25:32.000Z",
+              "created_at_i": 1587093932,
+              "num_comments": 37,
+              "objectID": "22895932",
+              "parent_id": null,
+              "points": 163,
+              "story_id": null,
+              "story_text": null,
+              "story_title": null,
+              "story_url": null,
+              "title": "Fix Boyer-Moore searcher with the Rytter correction",
+              "url": "https://github.com/microsoft/STL/pull/724",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "22896682",
+          "nodeType": "function",
+          "props": Object {
+            "colored": true,
+            "data": Object {
+              "_highlightResult": Object {
+                "author": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "severine",
+                },
+                "title": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "The curious tale of Bhutan's playable record postage stamps (2015)",
+                },
+                "url": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/",
+                },
+              },
+              "_tags": Array [
+                "story",
+                "author_severine",
+                "story_22896682",
+                "front_page",
+              ],
+              "author": "severine",
+              "comment_text": null,
+              "created_at": "2020-04-17T06:16:08.000Z",
+              "created_at_i": 1587104168,
+              "num_comments": 25,
+              "objectID": "22896682",
+              "parent_id": null,
+              "points": 143,
+              "story_id": null,
+              "story_text": null,
+              "story_title": null,
+              "story_url": null,
+              "title": "The curious tale of Bhutan's playable record postage stamps (2015)",
+              "url": "https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "22888407",
+          "nodeType": "function",
+          "props": Object {
+            "colored": false,
+            "data": Object {
+              "_highlightResult": Object {
+                "author": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "feross",
+                },
+                "title": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "Understanding RAID: How performance scales from one disk to eight",
+                },
+                "url": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "https://arstechnica.com/information-technology/2020/04/understanding-raid-how-performance-scales-from-one-disk-to-eight/",
+                },
+              },
+              "_tags": Array [
+                "story",
+                "author_feross",
+                "story_22888407",
+                "front_page",
+              ],
+              "author": "feross",
+              "comment_text": null,
+              "created_at": "2020-04-16T11:44:13.000Z",
+              "created_at_i": 1587037453,
+              "num_comments": 62,
+              "objectID": "22888407",
+              "parent_id": null,
+              "points": 129,
+              "story_id": null,
+              "story_text": null,
+              "story_title": null,
+              "story_url": null,
+              "title": "Understanding RAID: How performance scales from one disk to eight",
+              "url": "https://arstechnica.com/information-technology/2020/04/understanding-raid-how-performance-scales-from-one-disk-to-eight/",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "22899107",
+          "nodeType": "function",
+          "props": Object {
+            "colored": true,
+            "data": Object {
+              "_highlightResult": Object {
+                "author": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "makaimc",
+                },
+                "title": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "Building an end-to-end Speech Recognition model in PyTorch",
+                },
+                "url": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch",
+                },
+              },
+              "_tags": Array [
+                "story",
+                "author_makaimc",
+                "story_22899107",
+                "front_page",
+              ],
+              "author": "makaimc",
+              "comment_text": null,
+              "created_at": "2020-04-17T14:11:33.000Z",
+              "created_at_i": 1587132693,
+              "num_comments": 17,
+              "objectID": "22899107",
+              "parent_id": null,
+              "points": 115,
+              "story_id": null,
+              "story_text": null,
+              "story_title": null,
+              "story_url": null,
+              "title": "Building an end-to-end Speech Recognition model in PyTorch",
+              "url": "https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "22887931",
+          "nodeType": "function",
+          "props": Object {
+            "colored": false,
+            "data": Object {
+              "_highlightResult": Object {
+                "author": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "Luc",
+                },
+                "title": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "Fruit Trenches: Cultivating Subtropical Plants in Freezing Temperatures",
+                },
+                "url": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "https://www.lowtechmagazine.com/2020/04/fruit-trenches-cultivating-subtropical-plants-in-freezing-temperatures.html",
+                },
+              },
+              "_tags": Array [
+                "story",
+                "author_Luc",
+                "story_22887931",
+                "front_page",
+              ],
+              "author": "Luc",
+              "comment_text": null,
+              "created_at": "2020-04-16T10:26:18.000Z",
+              "created_at_i": 1587032778,
+              "num_comments": 25,
+              "objectID": "22887931",
+              "parent_id": null,
+              "points": 114,
+              "story_id": null,
+              "story_text": null,
+              "story_title": null,
+              "story_url": null,
+              "title": "Fruit Trenches: Cultivating Subtropical Plants in Freezing Temperatures",
+              "url": "https://www.lowtechmagazine.com/2020/04/fruit-trenches-cultivating-subtropical-plants-in-freezing-temperatures.html",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "22897846",
+          "nodeType": "function",
+          "props": Object {
+            "colored": true,
+            "data": Object {
+              "_highlightResult": Object {
+                "author": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "pseudolus",
+                },
+                "title": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "Deep Sea Squid Communicate by Glowing Like E-Readers",
+                },
+                "url": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "https://www.npr.org/2020/04/17/820707276/deep-sea-squid-communicate-by-glowing-like-e-readers",
+                },
+              },
+              "_tags": Array [
+                "story",
+                "author_pseudolus",
+                "story_22897846",
+                "front_page",
+              ],
+              "author": "pseudolus",
+              "comment_text": null,
+              "created_at": "2020-04-17T10:43:24.000Z",
+              "created_at_i": 1587120204,
+              "num_comments": 30,
+              "objectID": "22897846",
+              "parent_id": null,
+              "points": 106,
+              "story_id": null,
+              "story_text": null,
+              "story_title": null,
+              "story_url": null,
+              "title": "Deep Sea Squid Communicate by Glowing Like E-Readers",
+              "url": "https://www.npr.org/2020/04/17/820707276/deep-sea-squid-communicate-by-glowing-like-e-readers",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "22880502",
+          "nodeType": "function",
+          "props": Object {
+            "colored": false,
+            "data": Object {
+              "_highlightResult": Object {
+                "author": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "raphlinus",
+                },
+                "title": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "A Taste of GPU Compute [video]",
+                },
+                "url": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "https://www.youtube.com/watch?v=eqkAaplKBc4",
+                },
+              },
+              "_tags": Array [
+                "story",
+                "author_raphlinus",
+                "story_22880502",
+                "front_page",
+              ],
+              "author": "raphlinus",
+              "comment_text": null,
+              "created_at": "2020-04-15T17:26:43.000Z",
+              "created_at_i": 1586971603,
+              "num_comments": 55,
+              "objectID": "22880502",
+              "parent_id": null,
+              "points": 105,
+              "story_id": null,
+              "story_text": null,
+              "story_title": null,
+              "story_url": null,
+              "title": "A Taste of GPU Compute [video]",
+              "url": "https://www.youtube.com/watch?v=eqkAaplKBc4",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "22891654",
+          "nodeType": "function",
+          "props": Object {
+            "colored": true,
+            "data": Object {
+              "_highlightResult": Object {
+                "author": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "lelf",
+                },
+                "title": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "Telescope Sees Star Dance Around Supermassive Black Hole, Proves Einstein Right",
+                },
+                "url": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "https://www.eso.org/public/news/eso2006/",
+                },
+              },
+              "_tags": Array [
+                "story",
+                "author_lelf",
+                "story_22891654",
+                "front_page",
+              ],
+              "author": "lelf",
+              "comment_text": null,
+              "created_at": "2020-04-16T17:33:21.000Z",
+              "created_at_i": 1587058401,
+              "num_comments": 49,
+              "objectID": "22891654",
+              "parent_id": null,
+              "points": 104,
+              "story_id": null,
+              "story_text": null,
+              "story_title": null,
+              "story_url": null,
+              "title": "Telescope Sees Star Dance Around Supermassive Black Hole, Proves Einstein Right",
+              "url": "https://www.eso.org/public/news/eso2006/",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "22899546",
+          "nodeType": "function",
+          "props": Object {
+            "colored": false,
+            "data": Object {
+              "_highlightResult": Object {
+                "author": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "eastdakota",
+                },
+                "title": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "Is BGP Safe Yet?",
+                },
+                "url": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "https://isbgpsafeyet.com/",
+                },
+              },
+              "_tags": Array [
+                "story",
+                "author_eastdakota",
+                "story_22899546",
+                "front_page",
+              ],
+              "author": "eastdakota",
+              "comment_text": null,
+              "created_at": "2020-04-17T15:02:00.000Z",
+              "created_at_i": 1587135720,
+              "num_comments": 13,
+              "objectID": "22899546",
+              "parent_id": null,
+              "points": 99,
+              "story_id": null,
+              "story_text": null,
+              "story_title": null,
+              "story_url": null,
+              "title": "Is BGP Safe Yet?",
+              "url": "https://isbgpsafeyet.com/",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "22899654",
+          "nodeType": "function",
+          "props": Object {
+            "colored": true,
+            "data": Object {
+              "_highlightResult": Object {
+                "author": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "logane",
+                },
+                "title": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "Show HN: Zoomerbackgrounds.com – community sourced virtual video backgrounds",
+                },
+                "url": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "https://zoomerbackgrounds.com",
+                },
+              },
+              "_tags": Array [
+                "story",
+                "author_logane",
+                "story_22899654",
+                "show_hn",
+                "front_page",
+              ],
+              "author": "logane",
+              "comment_text": null,
+              "created_at": "2020-04-17T15:10:05.000Z",
+              "created_at_i": 1587136205,
+              "num_comments": 24,
+              "objectID": "22899654",
+              "parent_id": null,
+              "points": 66,
+              "story_id": null,
+              "story_text": null,
+              "story_title": null,
+              "story_url": null,
+              "title": "Show HN: Zoomerbackgrounds.com – community sourced virtual video backgrounds",
+              "url": "https://zoomerbackgrounds.com",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "22897961",
+          "nodeType": "function",
+          "props": Object {
+            "colored": false,
+            "data": Object {
+              "_highlightResult": Object {
+                "author": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "luu",
+                },
+                "title": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "Minimizing Logic Expressions",
+                },
+                "url": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "https://lab.whitequark.org/notes/2020-04-06/minimizing-logic-expressions/",
+                },
+              },
+              "_tags": Array [
+                "story",
+                "author_luu",
+                "story_22897961",
+                "front_page",
+              ],
+              "author": "luu",
+              "comment_text": null,
+              "created_at": "2020-04-17T11:03:59.000Z",
+              "created_at_i": 1587121439,
+              "num_comments": 16,
+              "objectID": "22897961",
+              "parent_id": null,
+              "points": 46,
+              "story_id": null,
+              "story_text": null,
+              "story_title": null,
+              "story_url": null,
+              "title": "Minimizing Logic Expressions",
+              "url": "https://lab.whitequark.org/notes/2020-04-06/minimizing-logic-expressions/",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "22899065",
+          "nodeType": "function",
+          "props": Object {
+            "colored": true,
+            "data": Object {
+              "_highlightResult": Object {
+                "author": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "rlindskog",
+                },
+                "title": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "Show HN: Graphite – Create apps from GraphQL APIs without writing code",
+                },
+                "url": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "https://graphiteapps.com",
+                },
+              },
+              "_tags": Array [
+                "story",
+                "author_rlindskog",
+                "story_22899065",
+                "show_hn",
+                "front_page",
+              ],
+              "author": "rlindskog",
+              "comment_text": null,
+              "created_at": "2020-04-17T14:06:57.000Z",
+              "created_at_i": 1587132417,
+              "num_comments": 27,
+              "objectID": "22899065",
+              "parent_id": null,
+              "points": 32,
+              "story_id": null,
+              "story_text": null,
+              "story_title": null,
+              "story_url": null,
+              "title": "Show HN: Graphite – Create apps from GraphQL APIs without writing code",
+              "url": "https://graphiteapps.com",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "22899272",
+          "nodeType": "function",
+          "props": Object {
+            "colored": false,
+            "data": Object {
+              "_highlightResult": Object {
+                "author": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "buboard",
+                },
+                "title": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "Covid-19 Antibody Seroprevalence in Santa Clara County, California",
+                },
+                "url": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1",
+                },
+              },
+              "_tags": Array [
+                "story",
+                "author_buboard",
+                "story_22899272",
+                "front_page",
+              ],
+              "author": "buboard",
+              "comment_text": null,
+              "created_at": "2020-04-17T14:31:47.000Z",
+              "created_at_i": 1587133907,
+              "num_comments": 24,
+              "objectID": "22899272",
+              "parent_id": null,
+              "points": 29,
+              "story_id": null,
+              "story_text": null,
+              "story_title": null,
+              "story_url": null,
+              "title": "Covid-19 Antibody Seroprevalence in Santa Clara County, California",
+              "url": "https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "22900329",
+          "nodeType": "function",
+          "props": Object {
+            "colored": true,
+            "data": Object {
+              "_highlightResult": Object {
+                "author": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "himynameisdave",
+                },
+                "title": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "Opt-Out of Clearview.ai",
+                },
+                "url": Object {
+                  "matchLevel": "none",
+                  "matchedWords": Array [],
+                  "value": "https://clearview.ai/privacy/requests",
+                },
+              },
+              "_tags": Array [
+                "story",
+                "author_himynameisdave",
+                "story_22900329",
+                "front_page",
+              ],
+              "author": "himynameisdave",
+              "comment_text": null,
+              "created_at": "2020-04-17T16:21:05.000Z",
+              "created_at_i": 1587140465,
+              "num_comments": 10,
+              "objectID": "22900329",
+              "parent_id": null,
+              "points": 29,
+              "story_id": null,
+              "story_text": null,
+              "story_title": null,
+              "story_url": null,
+              "title": "Opt-Out of Clearview.ai",
+              "url": "https://clearview.ai/privacy/requests",
+            },
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "function",
+          "props": Object {
+            "children": "More",
+            "className": "primary-text pagination",
+            "onClick": [Function],
+          },
+          "ref": null,
+          "rendered": "More",
+          "type": Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "displayName": "Link",
+            "propTypes": Object {
+              "innerRef": [Function],
+              "onClick": [Function],
+              "replace": [Function],
+              "target": [Function],
+              "to": [Function],
+            },
+            "render": [Function],
+          },
+        },
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "legacyContextMode": "parent",
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getChildContext": Object {
+            "calledByRenderer": false,
+          },
+          "getDerivedStateFromError": true,
+          "getDerivedStateFromProps": Object {
+            "hasShouldComponentUpdateBug": false,
+          },
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+    Symbol(enzyme.__providerValues__): undefined,
+  },
+  Symbol(enzyme.__providerValues__): Map {},
+}
+`;

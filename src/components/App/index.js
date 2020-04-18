@@ -5,7 +5,7 @@ import { BrowserRouter } from "react-router-dom";
 import RouterComponent from "../Router";
 import Header from "../Header";
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <BrowserRouter>
@@ -14,6 +14,6 @@ function App() {
       </BrowserRouter>
     </div>
   );
-}
+};
 
 export default App;

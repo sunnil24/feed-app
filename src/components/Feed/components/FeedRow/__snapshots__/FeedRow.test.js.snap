@@ -1,0 +1,640 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FeedRow /> should render the Title Component correctly 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <FeedRow
+    className="some-class"
+    colored={true}
+    data={
+      Object {
+        "author": "Sunil",
+        "created_at": 67564652,
+        "num_comments": 222,
+        "points": 10,
+        "title": "Some title",
+        "url": "http://some-utl.com",
+      }
+    }
+  />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "checkPropTypes": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": <Main
+        className="feed-wrapper"
+      >
+        <div
+          className="feed-comment-count dark-text"
+        >
+          222
+        </div>
+        <div
+          className="feed-upvote-count dark-text"
+        >
+          10
+        </div>
+        <div
+          className="feed-upvote-cta"
+        >
+          <ForwardRef
+            className="inherit-text"
+            onClick={[Function]}
+          >
+            ▲
+          </ForwardRef>
+        </div>
+        <div
+          className="feed-title"
+        >
+          <a
+            className="dark-text"
+            href="http://some-utl.com"
+          >
+            Some title
+          </a>
+            (
+          some-utl.com
+          ) by
+           
+          <span
+            className="dark-text"
+          >
+            Sunil
+             
+          </span>
+          50 years ago
+           [
+          <ForwardRef
+            className="dark-text"
+            onClick={[Function]}
+          >
+            hide
+          </ForwardRef>
+          ]
+        </div>
+      </Main>,
+      "className": "feed-row colored some-class",
+    },
+    "ref": null,
+    "rendered": Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "function",
+      "props": Object {
+        "children": Array [
+          <div
+            className="feed-comment-count dark-text"
+          >
+            222
+          </div>,
+          <div
+            className="feed-upvote-count dark-text"
+          >
+            10
+          </div>,
+          <div
+            className="feed-upvote-cta"
+          >
+            <ForwardRef
+              className="inherit-text"
+              onClick={[Function]}
+            >
+              ▲
+            </ForwardRef>
+          </div>,
+          <div
+            className="feed-title"
+          >
+            <a
+              className="dark-text"
+              href="http://some-utl.com"
+            >
+              Some title
+            </a>
+              (
+            some-utl.com
+            ) by
+             
+            <span
+              className="dark-text"
+            >
+              Sunil
+               
+            </span>
+            50 years ago
+             [
+            <ForwardRef
+              className="dark-text"
+              onClick={[Function]}
+            >
+              hide
+            </ForwardRef>
+            ]
+          </div>,
+        ],
+        "className": "feed-wrapper",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": 222,
+            "className": "feed-comment-count dark-text",
+          },
+          "ref": null,
+          "rendered": 222,
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": 10,
+            "className": "feed-upvote-count dark-text",
+          },
+          "ref": null,
+          "rendered": 10,
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": <ForwardRef
+              className="inherit-text"
+              onClick={[Function]}
+            >
+              ▲
+            </ForwardRef>,
+            "className": "feed-upvote-cta",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "children": "▲",
+              "className": "inherit-text",
+              "onClick": [Function],
+            },
+            "ref": null,
+            "rendered": "▲",
+            "type": Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "displayName": "Link",
+              "propTypes": Object {
+                "innerRef": [Function],
+                "onClick": [Function],
+                "replace": [Function],
+                "target": [Function],
+                "to": [Function],
+              },
+              "render": [Function],
+            },
+          },
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <a
+                className="dark-text"
+                href="http://some-utl.com"
+              >
+                Some title
+              </a>,
+              "  (",
+              "some-utl.com",
+              ") by",
+              " ",
+              <span
+                className="dark-text"
+              >
+                Sunil
+                 
+              </span>,
+              "50 years ago",
+              " [",
+              <ForwardRef
+                className="dark-text"
+                onClick={[Function]}
+              >
+                hide
+              </ForwardRef>,
+              "]",
+            ],
+            "className": "feed-title",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "Some title",
+                "className": "dark-text",
+                "href": "http://some-utl.com",
+              },
+              "ref": null,
+              "rendered": "Some title",
+              "type": "a",
+            },
+            "  (",
+            "some-utl.com",
+            ") by",
+            " ",
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  "Sunil",
+                  " ",
+                ],
+                "className": "dark-text",
+              },
+              "ref": null,
+              "rendered": Array [
+                "Sunil",
+                " ",
+              ],
+              "type": "span",
+            },
+            "50 years ago",
+            " [",
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "children": "hide",
+                "className": "dark-text",
+                "onClick": [Function],
+              },
+              "ref": null,
+              "rendered": "hide",
+              "type": Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "displayName": "Link",
+                "propTypes": Object {
+                  "innerRef": [Function],
+                  "onClick": [Function],
+                  "replace": [Function],
+                  "target": [Function],
+                  "to": [Function],
+                },
+                "render": [Function],
+              },
+            },
+            "]",
+          ],
+          "type": "div",
+        },
+      ],
+      "type": [Function],
+    },
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": <Main
+          className="feed-wrapper"
+        >
+          <div
+            className="feed-comment-count dark-text"
+          >
+            222
+          </div>
+          <div
+            className="feed-upvote-count dark-text"
+          >
+            10
+          </div>
+          <div
+            className="feed-upvote-cta"
+          >
+            <ForwardRef
+              className="inherit-text"
+              onClick={[Function]}
+            >
+              ▲
+            </ForwardRef>
+          </div>
+          <div
+            className="feed-title"
+          >
+            <a
+              className="dark-text"
+              href="http://some-utl.com"
+            >
+              Some title
+            </a>
+              (
+            some-utl.com
+            ) by
+             
+            <span
+              className="dark-text"
+            >
+              Sunil
+               
+            </span>
+            50 years ago
+             [
+            <ForwardRef
+              className="dark-text"
+              onClick={[Function]}
+            >
+              hide
+            </ForwardRef>
+            ]
+          </div>
+        </Main>,
+        "className": "feed-row colored some-class",
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "function",
+        "props": Object {
+          "children": Array [
+            <div
+              className="feed-comment-count dark-text"
+            >
+              222
+            </div>,
+            <div
+              className="feed-upvote-count dark-text"
+            >
+              10
+            </div>,
+            <div
+              className="feed-upvote-cta"
+            >
+              <ForwardRef
+                className="inherit-text"
+                onClick={[Function]}
+              >
+                ▲
+              </ForwardRef>
+            </div>,
+            <div
+              className="feed-title"
+            >
+              <a
+                className="dark-text"
+                href="http://some-utl.com"
+              >
+                Some title
+              </a>
+                (
+              some-utl.com
+              ) by
+               
+              <span
+                className="dark-text"
+              >
+                Sunil
+                 
+              </span>
+              50 years ago
+               [
+              <ForwardRef
+                className="dark-text"
+                onClick={[Function]}
+              >
+                hide
+              </ForwardRef>
+              ]
+            </div>,
+          ],
+          "className": "feed-wrapper",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": 222,
+              "className": "feed-comment-count dark-text",
+            },
+            "ref": null,
+            "rendered": 222,
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": 10,
+              "className": "feed-upvote-count dark-text",
+            },
+            "ref": null,
+            "rendered": 10,
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": <ForwardRef
+                className="inherit-text"
+                onClick={[Function]}
+              >
+                ▲
+              </ForwardRef>,
+              "className": "feed-upvote-cta",
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "children": "▲",
+                "className": "inherit-text",
+                "onClick": [Function],
+              },
+              "ref": null,
+              "rendered": "▲",
+              "type": Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "displayName": "Link",
+                "propTypes": Object {
+                  "innerRef": [Function],
+                  "onClick": [Function],
+                  "replace": [Function],
+                  "target": [Function],
+                  "to": [Function],
+                },
+                "render": [Function],
+              },
+            },
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <a
+                  className="dark-text"
+                  href="http://some-utl.com"
+                >
+                  Some title
+                </a>,
+                "  (",
+                "some-utl.com",
+                ") by",
+                " ",
+                <span
+                  className="dark-text"
+                >
+                  Sunil
+                   
+                </span>,
+                "50 years ago",
+                " [",
+                <ForwardRef
+                  className="dark-text"
+                  onClick={[Function]}
+                >
+                  hide
+                </ForwardRef>,
+                "]",
+              ],
+              "className": "feed-title",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Some title",
+                  "className": "dark-text",
+                  "href": "http://some-utl.com",
+                },
+                "ref": null,
+                "rendered": "Some title",
+                "type": "a",
+              },
+              "  (",
+              "some-utl.com",
+              ") by",
+              " ",
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    "Sunil",
+                    " ",
+                  ],
+                  "className": "dark-text",
+                },
+                "ref": null,
+                "rendered": Array [
+                  "Sunil",
+                  " ",
+                ],
+                "type": "span",
+              },
+              "50 years ago",
+              " [",
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "function",
+                "props": Object {
+                  "children": "hide",
+                  "className": "dark-text",
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": "hide",
+                "type": Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "displayName": "Link",
+                  "propTypes": Object {
+                    "innerRef": [Function],
+                    "onClick": [Function],
+                    "replace": [Function],
+                    "target": [Function],
+                    "to": [Function],
+                  },
+                  "render": [Function],
+                },
+              },
+              "]",
+            ],
+            "type": "div",
+          },
+        ],
+        "type": [Function],
+      },
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "legacyContextMode": "parent",
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getChildContext": Object {
+            "calledByRenderer": false,
+          },
+          "getDerivedStateFromError": true,
+          "getDerivedStateFromProps": Object {
+            "hasShouldComponentUpdateBug": false,
+          },
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+    Symbol(enzyme.__providerValues__): undefined,
+  },
+  Symbol(enzyme.__providerValues__): Map {},
+}
+`;

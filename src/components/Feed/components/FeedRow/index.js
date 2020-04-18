@@ -12,7 +12,6 @@ import { getDomainName } from "../../../../utils/common";
 
 const FeedRow = ({ className, colored, data }) => {
   const { title, url, num_comments, points, created_at, author } = data;
-  debugger;
   return (
     <div
       className={classnames(
