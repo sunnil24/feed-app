@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import PropTypes from "prop-types";
 import classnames from "classnames";
 
 //styles
@@ -9,9 +10,10 @@ import "./Feed.css";
 import feeds from "../../data/feed";
 import FeedRow from "./components/FeedRow";
 
-function Feed() {
+const Feed = (props) => {
+  const { className } = props;
   return (
-    <div className="Feed">
+    <div className={classnames("Feed", className)}>
       {feeds.hits.map((feed, index) => {
         const { objectID } = feed;
         return <FeedRow colored={index % 2 !== 0} data={feed} key={objectID} />;
@@ -25,6 +27,10 @@ function Feed() {
       </Link>
     </div>
   );
-}
+};
+
+Feed.propTypes = {
+  className: PropTypes.string,
+};
 
 export default Feed;

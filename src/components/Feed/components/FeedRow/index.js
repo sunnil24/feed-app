@@ -2,6 +2,7 @@ import React from "react";
 import classnames from "classnames";
 import moment from "moment";
 import { Link } from "react-router-dom";
+import PropTypes from "prop-types";
 
 //styles
 import "./FeedRow.css";
@@ -45,6 +46,12 @@ const FeedRow = ({ className, colored, data }) => {
       </Main>
     </div>
   );
+};
+
+FeedRow.propTypes = {
+  className: PropTypes.string,
+  colored: PropTypes.bool,
+  data: PropTypes.object,
 };
 
 FeedRow.defaultProps = {
