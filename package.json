@@ -24,7 +24,8 @@
     "test:lint:css": "stylelint \"**/*.css\"",
     "test": "react-scripts test",
     "test:snap": "jest --updateSnapshot",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "test:coverage": "react-scripts test --coverage --watchAll=false"
   },
   "eslintConfig": {
     "extends": "react-app"
