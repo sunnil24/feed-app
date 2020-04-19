@@ -21,7 +21,8 @@ const ForkTsCheckerWebpackPlugin = require("fork-ts-checker-webpack-plugin-alt")
 const typescriptFormatter = require("react-dev-utils/typescriptFormatter");
 const CompressionPlugin = require("compression-webpack-plugin");
 const BrotliPlugin = require("brotli-webpack-plugin");
-const BundleAnalyzerPlugin = require("webpack-bundle-analyzer");
+const BundleAnalyzerPlugin = require("webpack-bundle-analyzer")
+  .BundleAnalyzerPlugin;
 
 // Webpack uses `publicPath` to determine where the app is being served from.
 // It requires a trailing slash, or the file assets will get an incorrect path.
