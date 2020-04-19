@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { PureComponent } from "react";
 import PropTypes from "prop-types";
 import uniqBy from "lodash/uniqBy";
 
@@ -11,7 +11,7 @@ import FeedComponent from "../../components/Feed";
 //actions
 import { fetchFeed } from "../../redux/actions/feed";
 
-export class Feed extends Component {
+export class Feed extends PureComponent {
   state = {
     page: 0,
     hiddenData: [],

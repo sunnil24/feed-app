@@ -1,9 +1,11 @@
 import React from "react";
-import Feed from "./containers/Feed";
+import asyncComponent from "./components/AsyncComponent";
+
+const AsyncFeed = asyncComponent(() => import("./containers/Feed"));
 
 export default [
   {
     path: "/",
-    component: <Feed />,
+    component: <AsyncFeed />,
   },
 ];
