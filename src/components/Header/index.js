@@ -10,7 +10,7 @@ import Navigation from "../Navigation";
 function Header() {
   return (
     <header className="header">
-      <a class="skip-link" href="#maincontent">
+      <a className="skip-link" href="#maincontent">
         Skip to main
       </a>
       <Logo />
